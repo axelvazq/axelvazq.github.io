@@ -1,0 +1,3889 @@
+[
+    {
+        "id": 1,
+        "question": "Todos los siguientes enunciados respecto a los fármacos que son ácidos débiles son correctos, excepto:",
+        "options": [
+            "a) Tienden a acumularse en zonas de pH alto",
+            "b) Estos fármacos se unen principalmente a la albumina",
+            "c) En tratamiento de la intoxicación con los mismos podría resultar útil acidificar la orina",
+            "d) El pKa de los mismos es menor a 7.4"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 2,
+        "question": "Indique cuál de los siguientes enunciados es incorrecto con relación a la biodisponibilidad (F) de las vías de administración mencionadas:",
+        "options": [
+            "a) Por la vía oral siempre igual a 1",
+            "b) Por la vía intravenosa es siempre de 1",
+            "c) Por la vía intramuscular puede es menor a 1",
+            "d) Por la vía rectal puede ser menor a 1"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 3,
+        "question": "La biodisponibilidad (F) de los medicamentos es de 1, solo para los medicamentos administrados por:",
+        "options": [
+            "a) Vía oral",
+            "b) Vía intramuscular",
+            "c) Vía endovenosa",
+            "d) A+B son correctas",
+            "e) Ninguna de las anteriores"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 4,
+        "question": "Indique cuál de los siguientes enunciados es correcto con relación a la biodisponibilidad (F) de las vías de administración mencionadas:",
+        "options": [
+            "a) Por la vía oral siempre igual a 1",
+            "b) Por la vía intravenosa es siempre de 1",
+            "c) Por la vía intramuscular es siempre a 1",
+            "d) Por la vía rectal es siempre a 1"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 5,
+        "question": "Indique cuál de los siguientes enunciados es una de las características de los fármacos que siguen una cinética lineal:",
+        "options": [
+            "a) Los sistemas de metabolización se saturan a dosis terapéuticas",
+            "b) Cuando se duplica la dosis, la concentración plasmática también se duplica",
+            "c) Se metaboliza y se excreta una cantidad constante",
+            "d) La mayoría de los fármacos que se utilizan poseen cinética no lineal a dosis terapéuticas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 6,
+        "question": "Señale la afirmación correcta con relación a la vida media de los fármacos que siguen cinética lineal:",
+        "options": [
+            "a) Puede aumentar si aumenta la constante de eliminación (Ke)",
+            "b) Puede disminuir si hay un déficit de proteínas plasmáticas causado por insuficiencia hepática",
+            "c) Puede aumentar en presencia de un inductor hepático",
+            "d) Puede aumentar si aumenta de volumen de distribución"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 7,
+        "question": "Marque la opción correcta con respecto al volumen de distribución (Vd):",
+        "options": [
+            "a) Puede aumentar cuando el fármaco es desplazado de su unión a proteínas plasmáticas",
+            "b) Puede disminuir si hay un déficit de proteínas plasmáticas causado por insuficiencia hepática",
+            "c) Puede disminuir en presencia de un inhibidor del metabolismo hepático",
+            "d) Puede disminuir en pacientes que presentan insuficiencia renal"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 8,
+        "question": "El volumen de distribución aproximado de un fármaco se puede obtener:",
+        "options": [
+            "a) Dividiendo la dosis por la concentración a tiempo cero",
+            "b) Dividiendo la dosis por la concentración en el plateau",
+            "c) Multiplicando la dosis por la concentración inicial",
+            "d) Multiplicando la dosis por la dosis en el plateau",
+            "e) Ninguna de la anteriores"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 9,
+        "question": "Parámetros farmacocinéticos podemos afirmar:",
+        "options": [
+            "a) El cálculo de Vd (volumen de distribución) se realiza dividiendo la dosis por la concentración a tiempo cero, además si la vía es diferente a la endovenosa debe tener en cuenta la biodisponibilidad",
+            "b) Existe una relación directa entre biodisponibilidad y efecto del primer paso hepático",
+            "c) La biodisponibilidad de la nitroglicerina es mayor por vía oral que por vía sublingual",
+            "d) El Vd guarda una relación directa con Cp (concentración plasmática) e inversa a la dosis (D)"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 10,
+        "question": "Con relación a la distribución de los fármacos marque la premisa correcta:",
+        "options": [
+            "a) El pH del medio no influye sobre el pasaje a través de las membranas",
+            "b) Los fármacos unidos a proteínas se distribuyen con menor facilidad que los que están libres",
+            "c) Un requisito necesario para que el fármaco atraviese las membranas es que se encuentre no ionizado",
+            "d) Los fármacos liposolubles se distribuyen con menor facilidad que los hidrosolubles"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 11,
+        "question": "Marque la premisa incorrecta sobre el ajuste de la dosis en la insuficiencia renal (FA):",
+        "options": [
+            "a) Usted ajustaría la dosis en aquellos fármacos que se eliminan sin modificación por riñón",
+            "b) Usted ajustaría la dosis en aquellos fármacos que se eliminan activos por riñón",
+            "c) Para realizar el cálculo deberá tener en cuenta el clearance de creatina del paciente",
+            "d) El cálculo del mismo se puede hacer mediante una fórmula o una tabla"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 12,
+        "question": "Marque la premisa correcta sobre el ajuste de la dosis en la insuficiencia renal (FA):",
+        "options": [
+            "a) Usted ajustaría la dosis en aquellos fármacos que se eliminan como metabolitos inactivos por riñón",
+            "b) Para realizar el cálculo deberá tener en cuenta la constante de eliminación del fármaco",
+            "c) El cálculo del mismo se puede hacer mediante una fórmula o una tabla",
+            "d) Ninguna es correcta"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 13,
+        "question": "Con respecto a Historia Clínica (HC). Marque lo correcto:",
+        "options": [
+            "a) El motivo de consulta es la narración del episodio que motivo a consulta médica",
+            "b) El motivo de consulta es la razón (signo o síntoma) que impulsa al paciente a buscar ayuda",
+            "c) El motivo de consulta debe ser extenso y describir todos los síntomas por los cuales consulta el paciente",
+            "d) El orden lógico de la HC es el siguiente: motivo de consulta, datos básicos, enfermedad actual, lista de problemas, antecedentes personales, noción de foco"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 14,
+        "question": "Con respecto a la Historia Clínica (HC), marque la correcta:",
+        "options": [
+            "a) Es el registro completo de a información obtenida a través del interrogatorio, del examen físico y de los estudios complementarios del paciente",
+            "b) Aporta datos para construir el razonamiento médico",
+            "c) Cumple función legal",
+            "d) El accidente puede requerirla en cualquier circunstancia",
+            "e) Todas están correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 15,
+        "question": "El sonido mate:",
+        "options": [
+            "a) Es suave, apagado, timbre alto, frecuencia mediana-alta, duración corta",
+            "b) Es de baja frecuencia, tono grave, prolongado",
+            "c) Es muy intenso de baja frecuencia",
+            "d) Es suave, de timbre bajo, duración prolongada"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 16,
+        "question": "La diarrea osmótica se caracteriza por:",
+        "options": [
+            "a) Volumen de las heces menor a 1l/día",
+            "b) La diarrea no cede con el ayuno",
+            "c) Tiene baja osmolaridad",
+            "d) B y C son correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 17,
+        "question": "El tálamo regula el tono vital de cada día, interviene en los circuitos:",
+        "options": [
+            "a) Motilidad",
+            "b) Vigilancia",
+            "c) Atención",
+            "d) Memoria"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 18,
+        "question": "El tálamo actúa neurofuncionalmente en salud mental como:",
+        "options": [
+            "a) Filtro sensorial",
+            "b) Estación de paso informativo",
+            "c) Ambos",
+            "d) Está desprovisto de funciones en salud mental"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 19,
+        "question": "El complejo 1 de la cadena respiratoria:",
+        "options": [
+            "a) Contiene FMN",
+            "b) Contiene FAD",
+            "c) Contiene centros de hierro-azufre",
+            "d) A+C",
+            "e) B+C"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 20,
+        "question": "El hierro proveniente del catabolismo del hemo es transportado en sangre por:",
+        "options": [
+            "a) Ferritina",
+            "b) Transferrina",
+            "c) Albumina",
+            "d) Hemosiderina",
+            "e) A+B",
+            "f) B+C"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 21,
+        "question": "Hace 20 años atrás, las meningitis por Haemophilus influenzae eran las más frecuentemente observadas en pediatría. En la actualidad es muy rara su presentación. Esto se debe a:",
+        "options": [
+            "a) La vacuna contra la gripe estacional",
+            "b) La vacuna triple (difteria, tétanos, tos convulsa)",
+            "c) La vacuna cuádruple (bacteria) (difteria, tétanos, tos convulsa, Haemophilus influenzae b)",
+            "d) La vacuna contra el virus H1N1",
+            "e) La buena prescripción de antibiótico"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 22,
+        "question": "Los xenobióticos pueden ser:",
+        "options": [
+            "a) Conjugados con sulfato",
+            "b) Hidroxilados",
+            "c) Metabolizados para obtener energía",
+            "d) A+B",
+            "e) A+C",
+            "f) B+C"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 23,
+        "question": "Paciente de sexo masculino de 75 años que refiere ardor y dolor miccional, tenesmo y poliquiuria. Al realizar el urocultivo se obtuvo desarrollo de cocos gran positivos en cadena. Usted piensa en:",
+        "options": [
+            "a) Streptococcus viridians",
+            "b) Escherichia coli",
+            "c) Neisseria gonorrheae",
+            "d) Enterococcus faecallis",
+            "e) Streptococcus pyogens"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 24,
+        "question": "¿Un niño de 3 años presenta diarrea sanguinolenta, con estos datos que estudios solicitaría para establecer el diagnóstico etiológico?",
+        "options": [
+            "a) Se debe solicitar un coprocultivo buscando Campylobacter jejuni",
+            "b) Se debe solicitar un coprocultivo buscando Escherichia coli enterotóxica",
+            "c) Se debe administrar antibióticos sin incorporar sin importar el microorganismo causante",
+            "d) Se debe buscar Salmonella typhi en hemocultivos"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 25,
+        "question": "Biopsia de la mucosa bronquial revestida focalmente por epitelio pavimentoso hipoglucogénico que presenta además leve infiltrado en las células linfocitarias a nivel del colon. El diagnóstico anatomopatológico en el presente caso correspondería a:",
+        "options": [
+            "a) Hiperplasia",
+            "b) Metaplasia",
+            "c) Hipertrofia",
+            "d) Atrofia"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 26,
+        "question": "Características de muerte células por apoptosis:",
+        "options": [
+            "a) Cambios morfológicos que sigue a la muerte en el tejido vivo por acción degradante progresiva de las enzimas",
+            "b) Muerte celular inducida por programa intracelular en el cual las células destinadas a morir activan enzimas que degradan el propio ADN",
+            "c) Produce cambios nucleares: cariolisis, picnosis y cariorexis",
+            "d) Se produce por lesión isquémica que es la causa más frecuente de lesión por privación de oxígeno"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 27,
+        "question": "Las acumulaciones intracelulares de lípidos simples pueden producirse en:",
+        "options": [
+            "a) Células musculares lisas",
+            "b) Macrófago",
+            "c) Hepatocito",
+            "d) Todas las anteriores"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 28,
+        "question": "La hemoptisis es:",
+        "options": [
+            "a) Eliminación de sangre con el vómito",
+            "b) Eliminación de sangre proveniente del aparato respiratorio",
+            "c) Eliminación de sangre oscura previo al toser",
+            "d) Sangre oculta en materia fecal"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 29,
+        "question": "La hemoptisis es:",
+        "options": [
+            "a) Eliminación de sangre con el vómito",
+            "b) Eliminación de sangre proveniente del aparato respiratorio",
+            "c) La sangre es roja, brillante y espumosa",
+            "d) La sangre es oscura y va precedida de tos",
+            "e) B+C correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 30,
+        "question": "Con respecto a la disnea marque lo correcto:",
+        "options": [
+            "a) Es un signo que aparece en insuficiencia respiratoria",
+            "b) Es la sensación subjetiva de falta de aire",
+            "c) Su causa puede ser cardiaca o respiratoria",
+            "d) A+B",
+            "e) Todas son correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 31,
+        "question": "El complejo 1 de la cadena respiratoria:",
+        "options": [
+            "a) Contiene FMN",
+            "b) Contiene FAD",
+            "c) Contiene centros de hierro-azufre",
+            "d) A+C",
+            "e) B+C"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 32,
+        "question": "Señale las respuestas correctas:",
+        "options": [
+            "a) Si el alimento sospechoso fue una hamburguesa mal cocida puede tratarse de Escherichia coli",
+            "b) En una colitis infecciosa hay hiperemia de la mucosa y en el examen microscópico hay polimorfonucleares con conservación de la arquitectura de las criptas",
+            "c) El niño debe continuar alimentándose e hidratándose por vía oral",
+            "d) Si otros comensales tuvieron síntomas digestivos pudo tratarse de un brote epidémico ingestión de mayonesa casera",
+            "e) La mayoría de los episodios diarreicos se autolimitan"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 33,
+        "question": "Señale medidas preventivas válidas para la prevención de problemas respiratorios del niño:",
+        "options": [
+            "a) Mejorar la vivienda de las poblaciones en extrema pobreza",
+            "b) Dedicar mayor presupuesto para nuevos hospitales de alta complejidad",
+            "c) Radicar las fábricas que emiten humo lejos de los centros poblados",
+            "d) Adquisición de antibióticos",
+            "e) Vacuna triple (tétanos, difteria, tos convulsa) a la embarazada"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 34,
+        "question": "Un paciente de 16 años fue intervenido quirúrgicamente por un cuadro de apendicitis aguda supurada por lo cual recibió tratamiento con antimicrobianos. A los 5 días comienza con diarrea de 10 a 15 deposiciones por día de color verdoso. ¿En que microorganismo piensa?",
+        "options": [
+            "a) Bacillus anthracis",
+            "b) Clostridium tetannis",
+            "c) Clostridium difficile",
+            "d) Lactobacillus spp",
+            "e) Bacillus cereus"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 35,
+        "question": "Un paciente quemado, a las 48h de estar internado presenta fiebre y en las lesiones se observa abundante secreción mucopurulenta. En el Gram se observan bacilos Gram negativos. ¿Con estos datos, cual puede ser el agente causal?",
+        "options": [
+            "a) Pseudomonas aeruginosa",
+            "b) Klebsiella pneumoniae",
+            "c) Escherichia coli",
+            "d) Brucella",
+            "e) Salmonella"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 36,
+        "question": "Un hombre de 30 años presenta signos de uretritis purulenta. Se le realiza un exudado uretral. En la coloración de Gram se observan abundantes leucocitos y abundantes diplococos Gram negativos. ¿Con estos datos, cual puede ser la bacteria causante?",
+        "options": [
+            "a) Neisseria meningitidis",
+            "b) Acinetobacter baumanni",
+            "c) Neisseria gonorrhoeae",
+            "d) Escherichia coli",
+            "e) Pseudomonas aeruginosa"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 37,
+        "question": "Un hombre de 30 años con uretritis purulenta. Se realiza coloración de Gram de la secreción uretral con el siguiente resultado: se observan abundantes leucocitos polimorfonucleares y regular cantidad de cocos Gram negativos Con estos datos, ¿cuál es la respuesta correcta?",
+        "options": [
+            "a) La causa puede ser Neisseria gonorrheae porque tiene fimbrias para adherirse al epitelio cilíndrico simple de la uretra y el Gram es confirmatorio",
+            "b) La causa puede ser Neisseria gonorrheae se debe hacer cultivo para confirmar el diagnóstico",
+            "c) La causa puede ser Neisseria gonorrheae se debe confirmar al diagnóstico con búsqueda de anticuerpo IgM en el suero",
+            "d) La causa puede ser Neisseria gonorrheae se debe confirmar al diagnóstico con búsqueda de antígeno en la secreción para confirmar el resultado",
+            "e) La causa puede ser Neisseria gonorrheae se debe buscar anticuerpos IgG en suero para confirmar infección reciente"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 38,
+        "question": "Un niño de 6 años se presenta con un cuadro de meningitis. A los efectos de tomar una decisión urgente se efectúa una coloración de Gram del LCR. Se observa leucocitos y diplococos Gram negativos capsulados. ¿Cuál es el probable agente causante?",
+        "options": [
+            "a) Escherichia coli",
+            "b) Haemophilus influenzae",
+            "c) Neisseria meningitidis",
+            "d) Streptococcus pneumoniae",
+            "e) Klebsiella pneumoniae"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 39,
+        "question": "¿Cuál bacteria puede causar sepsis del recién nacido si está presente en el flujo vaginal de la madre al momento del parto?",
+        "options": [
+            "a) Streptococcus beta hemolítico grupo B (S. agalactiae)",
+            "b) Streptococcus grupo viridians",
+            "c) Lactobacillus spp",
+            "d) Gardnerella vaginalis",
+            "e) Staphylococcus aureus"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 40,
+        "question": "¿Cuál microorganismo puede causar abscesos supurados?",
+        "options": [
+            "a) Vibrio cholereae",
+            "b) Neisseria spp",
+            "c) Treponema pallidum",
+            "d) Corynebacterium difteriae",
+            "e) Staphylococcus aureus"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 41,
+        "question": "El bronquio fuente derecha comparativamente con el izquierdo es:",
+        "options": [
+            "a) Mas horizontal",
+            "b) Mas largo",
+            "c) Mas vertical",
+            "d) De igual",
+            "e) Mas delgado"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 42,
+        "question": "Marque el sonido que espera encontrar al percutir campos pulmonares normales:",
+        "options": [
+            "a) Sonoridad",
+            "b) Matidez",
+            "c) Submatidez",
+            "d) Timpanismo"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 43,
+        "question": "Son características de las diarreas secretoras:",
+        "options": [
+            "a) Volumen de heces menor a 1l/día",
+            "b) La diarrea persiste a pesar del ayuno",
+            "c) El volumen de las heces es mayor a 1l/día",
+            "d) A+B",
+            "e) B+C"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 44,
+        "question": "Los 3 tipos de procesos de masas se resumen en a siguiente tabla. ¿Cual es incorrecto?",
+        "options": [
+            "a) Epidemia: limitado/limitado",
+            "b) Pandemia: limitado/ilimitado",
+            "c) Endemia: limitado/ilimitado"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 45,
+        "question": "Con respecto al proceso de biotransformación indique la afirmación incorrecta:",
+        "options": [
+            "a) La oxidación es una reacción de Fase I",
+            "b) La reducción es una reacción de Fase I",
+            "c) La conjugación es una reacción de Fase I",
+            "d) La hidrólisis es una reacción de Fase I"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 46,
+        "question": "La ictericia fisiológica del recién nacido se debe a:",
+        "options": [
+            "a) Un déficit del transporte de la bilirrubina por hipoalbuminemia",
+            "b) Un aumento en la hemólisis de los eritrocitos",
+            "c) Disminución en la conjugación hepática",
+            "d) Todas son correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 47,
+        "question": "Son causas de la diarrea aguda:",
+        "options": [
+            "a) Infecciones virales, bacterianas y parasitarias",
+            "b) Fármacos",
+            "c) Alteraciones metabólicas (uremia, cetoacidosis DBT)",
+            "d) Todas son correctas",
+            "e) A+B correctas"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 48,
+        "question": "¿Qué es la hemosiderina y donde se acumula?",
+        "options": [
+            "a) Pigmento derivado de la hemoglobina que no contiene Fe, se encuentra en la bilis y se acumula en el citoplasma de las células",
+            "b) Pigmento derivado de la hemoglobina color amarillo-dorado a marrón, granular o cristalino, en cuya forma se almacena el hierro en el citoplasma de la célula",
+            "c) Pigmento endógeno no derivado de la hemoglobina, color marrón, que se produce por oxidación de la tirosina en los melanocitos",
+            "d) Ninguna de las anteriores"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 49,
+        "question": "Virus respiratorios:",
+        "options": [
+            "a) El virus influenza posee distintos serotipos",
+            "b) El virus influenza causa epidemias estacionales y muta sus AG",
+            "c) La meningitis es la complicación más frecuente de la parotiditis urleana",
+            "d) Las infecciones respiratorias por virus influenza pueden predisponer a complicaciones bacterianas",
+            "e) Los adenovirus no se pueden transmitir vía fecal oral",
+            "f) Los adenovirus causan infecciones solamente del aparato respiratorio",
+            "g) La inmunidad natural que deja la infección por el virus del sarampión no los protege durante toda la vida",
+            "h) Los virus parainfluenza presentan un solo serotipo",
+            "i) Es improbable la infección con VSR en niños menores de 2 años"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 50,
+        "question": "En el proceso de quimiotaxis el leucocito en migrar depende, del tipo de noxa. Marcar lo correcto:",
+        "options": [
+            "a) En las infecciones parasitarias y alergias predominan eosinófilos",
+            "b) En las infecciones bacterianas predominan linfocitos y neutrófilos",
+            "c) En infecciones virales predominan basófilos y monocitos"
+        ],
+        "source_file": "1 simil parcial.txt"
+    },
+    {
+        "id": 51,
+        "question": "Hace 20 años atrás, las meningitis por Haemophilus influenzae eran las más frecuentemente observadas en pediatría. En la actualidad es muy rara su presentación. Esto se debe a:",
+        "options": [
+            "a) La vacuna contra la gripe estacional",
+            "b) La vacuna triple (difteria, tétanos, tos convulsa)",
+            "c) La vacuna cuádruple (bacteria) (difteria, tétanos, tos convulsa, Haemophilus influenzae b)",
+            "d) La vacuna contra el virus H1N1",
+            "e) La buena prescripción de antibiótico"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 52,
+        "question": "Los xenobióticos pueden ser:",
+        "options": [
+            "a) Conjugados con sulfato",
+            "b) Hidroxilados",
+            "c) Metabolizados para obtener energía",
+            "d) A+B",
+            "e) A+C",
+            "f) B+C"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 53,
+        "question": "Paciente de sexo masculino de 75 años que refiere ardor y dolor miccional, tenesmo y poliquiuria. Al realizar el urocultivo se obtuvo desarrollo de cocos gran positivos en cadena. Usted piensa en:",
+        "options": [
+            "a) Streptococcus viridians",
+            "b) Escherichia coli",
+            "c) Neisseria gonorrheae",
+            "d) Enterococcus faecallis",
+            "e) Streptococcus pyogens"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 54,
+        "question": "¿Un niño de 3 años presenta diarrea sanguinolenta, con estos datos que estudios solicitaría para establecer el diagnóstico etiológico?",
+        "options": [
+            "a) Se debe solicitar un coprocultivo buscando Campylobacter jejuni",
+            "b) Se debe solicitar un coprocultivo buscando Escherichia coli enterotóxica",
+            "c) Se debe administrar antibióticos sin incorporar sin importar el microorganismo causante",
+            "d) Se debe buscar Salmonella typhi en hemocultivos"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 55,
+        "question": "Señale las respuestas correctas:",
+        "options": [
+            "a) Si el alimento sospechoso fue una hamburguesa mal cocida puede tratarse de Escherichia coli",
+            "b) En una colitis infecciosa hay hiperemia de la mucosa y en el examen microscópico hay polimorfonucleares con conservación de la arquitectura de las criptas",
+            "c) El niño debe continuar alimentándose e hidratándose por vía oral",
+            "d) Si otros comensales tuvieron síntomas digestivos pudo tratarse de un brote epidémico ingestión de mayonesa casera",
+            "e) La mayoría de los episodios diarreicos se autolimitan"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 56,
+        "question": "Señale medidas preventivas válidas para la prevención de problemas respiratorios del niño:",
+        "options": [
+            "a) Mejorar la vivienda de las poblaciones en extrema pobreza",
+            "b) Dedicar mayor presupuesto para nuevos hospitales de alta complejidad",
+            "c) Radicar las fábricas que emiten humo lejos de los centros poblados",
+            "d) Adquisición de antibióticos",
+            "e) Vacuna triple (tétanos, difteria, tos convulsa) a la embarazada"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 57,
+        "question": "Un paciente de 16 años fue intervenido quirúrgicamente por un cuadro de apendicitis aguda supurada por lo cual recibió tratamiento con antimicrobianos. A los 5 días comienza con diarrea de 10 a 15 deposiciones por día de color verdoso. ¿En que microorganismo piensa?",
+        "options": [
+            "a) Bacillus anthracis",
+            "b) Clostridium tetannis",
+            "c) Clostridium difficile",
+            "d) Lactobacillus spp",
+            "e) Bacillus cereus"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 58,
+        "question": "Un paciente quemado, a las 48h de estar internado presenta fiebre y en las lesiones se observa abundante secreción mucopurulenta. En el Gram se observan bacilos Gram negativos. ¿Con estos datos, cual puede ser el agente causal?",
+        "options": [
+            "a) Pseudomonas aeruginosa",
+            "b) Klebsiella pneumoniae",
+            "c) Escherichia coli",
+            "d) Brucella",
+            "e) Salmonella"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 59,
+        "question": "Un niño de 6 años se presenta con un cuadro de meningitis. A los efectos de tomar una decisión urgente se efectúa una coloración de Gram del LCR. Se observa leucocitos y diplococos Gram negativos capsulados. ¿Cuál es el probable agente causante?",
+        "options": [
+            "a) Escherichia coli",
+            "b) Haemophilus influenzae",
+            "c) Neisseria meningitidis",
+            "d) Streptococcus pneumoniae",
+            "e) Klebsiella pneumoniae"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 60,
+        "question": "¿Cuál bacteria puede causar sepsis del recién nacido si está presente en el flujo vaginal de la madre al momento del parto?",
+        "options": [
+            "a) Streptococcus beta hemolítico grupo B (S. agalactiae)",
+            "b) Streptococcus grupo viridians",
+            "c) Lactobacillus spp",
+            "d) Gardnerella vaginalis",
+            "e) Staphylococcus aureus"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 61,
+        "question": "¿Cuál microorganismo puede causar abscesos supurados?",
+        "options": [
+            "a) Vibrio cholereae",
+            "b) Neisseria spp",
+            "c) Treponema pallidum",
+            "d) Corynebacterium difteriae",
+            "e) Staphylococcus aureus"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 62,
+        "question": "Virus respiratorios:",
+        "options": [
+            "a) El virus influenza posee distintos serotipos",
+            "b) El virus influenza causa epidemias estacionales y muta sus AG",
+            "c) La meningitis es la complicación más frecuente de la parotiditis urleana",
+            "d) Las infecciones respiratorias por virus influenza pueden predisponer a complicaciones bacterianas",
+            "e) Los adenovirus no se pueden transmitir vía fecal oral",
+            "f) Los adenovirus causan infecciones solamente del aparato respiratorio",
+            "g) La inmunidad natural que deja la infección por el virus del sarampión no los protege durante toda la vida",
+            "h) Los virus parainfluenza presentan un solo serotipo",
+            "i) Es improbable la infección con VSR en Ñ menores de 2 años"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 63,
+        "question": "Un anciano de 80 años presenta signos y síntomas de gripe. Señale lo correcto:",
+        "options": [
+            "a) La vacunación debe repetirse todos los años en el otoño",
+            "b) El síndrome gripal se diagnostica por alteraciones específicas en el hemograma completo con recuento de plaquetas",
+            "c) El síndrome gripal está producido únicamente por el virus influenza"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 64,
+        "question": "Una anciana de 78 años presenta signos y síntomas de gripe. Señale lo correcto:",
+        "options": [
+            "a) La vacunación no previene de forma completa los cuadros gripales",
+            "b) El síndrome gripal está producido por el virus influenza y hay un único serotipo mundial",
+            "c) La gripe es una enfermedad viral más común en la época estival y el paciente no presenta"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 65,
+        "question": "Un lactante de 3 meses presenta un cuadro respiratorio agudo con fiebre y disnea. Con el diagnóstico presuntivo de bronquiolitis, ¿Cómo haría para certificar el diagnóstico?",
+        "options": [
+            "a) Solicitaría búsqueda de Ag de VSR en aspirado nasofaríngeo",
+            "b) Solicitaría búsqueda de Ac IG m anticoronavirus en suero del paciente",
+            "c) Solicitaría búsqueda de Ag específico de adenovirus en suero del paciente"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 66,
+        "question": "Un bebé de 6 meses presenta un cuadro respiratorio agudo con fiebre y disnea. ¿Con el diagnóstico presuntivo de bronquiolitis, como haría para certificar dicho diagnóstico?",
+        "options": [
+            "a) Solicitaría búsqueda de anticuerpos IgG anti VSR en suero",
+            "b) Solicitaría búsqueda de Ag de VSR en aspirado nasofaríngeo",
+            "c) Solicitaría hemograma completo con plaquetas"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 67,
+        "question": "En relación a los virus respiratorios, marque la afirmación correcta:",
+        "options": [
+            "a) El virus del sarampión causa una enfermedad exantemática febril de la infancia. Las manchas de Koplik son patognomónicas de la enfermedad",
+            "b) El virus de la parotiditis presenta únicamente receptores específicos para infectar las glándulas parótidas",
+            "c) Parainfluenza A y B producen cuadros respiratorios fácilmente distinguibles desde el punto de vista clínico de los causados por virus Influenza",
+            "d) VSR es la segunda causa más frecuente de bronquiolitis del lactante, después del virus de la Gripe"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 68,
+        "question": "Proteus puede producir infecciones, las más frecuentes son:",
+        "options": [
+            "a) Respiratorias",
+            "b) De la piel",
+            "c) Urinarias",
+            "d) Intestinales"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 69,
+        "question": "Marque lo INCORRECTO en relación a los estafilococos coagulasa negativa:",
+        "options": [
+            "a) Son considerados patógenos primarios pudiendo causar infecciones de piel y partes blandas, endocarditis y artritis séptica",
+            "b) Son capaces de crear una biopelícula/biofilm sobre materiales inertes (ej. prótesis) lo qué los aísla de las células del sistema inmunitario y antimicrobianos",
+            "c) Numerosas especies pertenecen a este grupo. Se diferencian de S. aureus por ser menos virulentas y no producir enzima coagulasa"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 70,
+        "question": "¿Cuáles de las siguientes son características propias de la cápside viral?",
+        "options": [
+            "a) Protege el material genético",
+            "b) Puede tener diferente conformación espacial",
+            "c) Es idéntica en todos los virus"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 71,
+        "question": "Marque las afirmaciones correctas acerca de Legionella:",
+        "options": [
+            "a) Suele estar presente en reservas naturales de agua",
+            "b) Puede crecer intracelularmente",
+            "c) Suelen estar presentes en torres de refrigeración, condensadores de aire acondicionados y cañerías de agua",
+            "d) Es un coco"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 72,
+        "question": "¿Cuál de los siguientes virus hepatotropos no posee un genoma constituido por ARN?",
+        "options": [
+            "a) VHC",
+            "b) VHB",
+            "c) VHA",
+            "d) VHE",
+            "e) VHD"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 73,
+        "question": "Marque la/las opción/es CORRECTA/AS:",
+        "options": [
+            "a) Género Streptococcus → Racimos",
+            "b) Género Staphylococcus → Cadenas",
+            "c) Género Enterococcus → Diplococos o cadena corta"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 74,
+        "question": "¿Cuál es la toxina responsable del mecanismo toxigénico de S. pyogenes?",
+        "options": [
+            "a) Estreptolisina",
+            "b) Hialuronidasa",
+            "c) Eritrogénica",
+            "d) A + C"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 75,
+        "question": "¿Qué microorganismo tiene una patogenia de ingestión, infección de vasos linfáticos y ganglios mesentéricos, diseminación a bazo, riñón, hígado y vesícula; excreción?",
+        "options": [
+            "a) Salmonella typhi",
+            "b) Vibrio cholerae",
+            "c) Shigella dysenteriae",
+            "d) Escherichia coli"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 76,
+        "question": "La infección por virus de la gripe se caracteriza por 3 de las siguientes opciones, marque la INCORRECTA:",
+        "options": [
+            "a) Periodo de incubación largo (15-21 días)",
+            "b) Una de las principales complicaciones y causa de muerte por gripe son las neumonías bacterianas sobreañadidas",
+            "c) Cuadro febril con cefalea, mialgias, afectación del estado general y tos",
+            "d) Puede cursar con cuadros graves en los extremos de la vida"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 77,
+        "question": "El período de incubación:",
+        "options": [
+            "a) Es muy corto en la rabia (1 día)",
+            "b) Es muy prolongado en el sarampión (más de 200 días)",
+            "c) Puede ser muy extenso en la hepatitis (más de 60 días)",
+            "d) Puede ser muy extenso en la gripe (más de 100 días)"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 78,
+        "question": "¿Cuál de las siguientes es una neurotoxina?",
+        "options": [
+            "a) Colérica",
+            "b) TSST-1 producida por Staphylococcus aureus",
+            "c) Fosfolipasa C",
+            "d) Tetánica"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 79,
+        "question": "Niño de 6 años es traído a la consulta por su madre, refiere fiebre alta de 5 horas de evolución y disfagia. Usted sospecha en faringitis por S. pyogenes. ¿Qué prueba solicitaría para confirmar su diagnóstico?",
+        "options": [
+            "a) Gram, cultivo e identificación de exudado faríngeo",
+            "b) Toma de muestra mediante aspirado nasofaríngeo y diagnóstico directo mediante PCR",
+            "c) Diagnóstico indirecto mediante dosaje de ASO en plasma"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 80,
+        "question": "Con respecto a los virus de la gripe (A, B y C), marque todas las opciones correctas:",
+        "options": [
+            "a) El virus Influenza A presenta hemaglutininas y neuraminidasas insertas en su envoltura lipídica. Estas le permiten interactuar con las células del epitelio respiratorio",
+            "b) Las variaciones antigénicas son comunes en el virus Influenza tipo B, responsable de pandemias",
+            "c) El virus Influenza B, es un virus únicamente humano y no experimenta cambios antigénicos mayores, aunque sí suficiente deriva antigénica como para que la cepa circulante pueda ser la causante de epidemias",
+            "d) La memoria inmunológica desencadenada por la infección de estos virus no sirve contra infecciones futuras"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 81,
+        "question": "Dentro de los BG- se destaca la familia Enterobacteriaceae, caracterizadas por ser aerobias y anaerobias facultativas, crecer bien en medios de cultivos usuales y fermentar la glucosa. Marque la opción INCORRECTA en relación a los géneros que pertenecen a esta familia:",
+        "options": [
+            "a) Salmonella, Shigella, Klebsiella, Serratia",
+            "b) Yersinia, Escherichia, Enterobacter, Salmonella",
+            "c) Escherichia, Proteus, Enterococcus, Yersinia",
+            "d) Proteus, Morganella, Shigella, Klebsiella"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 82,
+        "question": "Un agente físico o químico que elimina todos los microorganismos se puede denominar:",
+        "options": [
+            "a) Esterilizante",
+            "b) Bacteriostático",
+            "c) Antiséptico",
+            "d) Desinfectante"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 83,
+        "question": "Dentro de las enterobacterias, existen especies patógenas primarias y oportunistas. Elija la opción correcta en relación a Salmonella spp.",
+        "options": [
+            "a) Salmonella enteritidis forma parte de la microbiota intestinal del hombre, donde se comporta como patógeno oportunista",
+            "b) Las personas contraen la enfermedad a través del consumo de quistes presentes en alimentos contaminados de origen animal (principalmente huevos, carne, aves de corral y leche) o consumo de agua contaminada",
+            "c) Todas las especies de Salmonella tienen como reservorio el tubo digestivo de numerosos animales. En el hombre se comportan como patógenos primarios, causando cuadros de diarrea no disenteriforme",
+            "d) Existen varios serotipos de Salmonelas entéricas, entre los cuales se destacan S. typhi y paratyphi. Su único reservorio es el hombre"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 84,
+        "question": "Un medio de cultivo al que se le agregan antibióticos es un medio:",
+        "options": [
+            "a) De conservación",
+            "b) Selectivo",
+            "c) De transporte",
+            "d) Diferencial"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 85,
+        "question": "¿Cómo conservaría una muestra microbiana hasta llevarla al laboratorio?",
+        "options": [
+            "a) Al aire libre",
+            "b) En agua estéril",
+            "c) Congelándola",
+            "d) En un medio de transporte"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 86,
+        "question": "S. aureus puede formar parte de la microbiota habitual de piel y fosas nasales. Marque lo correcto en relación a los procesos patológicos que causa:",
+        "options": [
+            "a) Mediante su mecanismo toxigénico, causan principalmente gastroenteritis y escarlatina",
+            "b) Por el mecanismo inmunopatológico, gracias a la producción de toxina del shock tóxico (TSS), puede desencadenar una respuesta inflamatoria sistémica",
+            "c) A través de su mecanismo invasivo (producción de enzimas) causa infecciones piel y partes blandas. Estas son localizadas y es muy raro que invadan la sangre causando bacteriemias"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 87,
+        "question": "Marque lo INCORRECTO en relación a Adenovirus:",
+        "options": [
+            "a) Los serotipos 40 y 41 causan diarrea en niños",
+            "b) Se transmiten por gotas respiratorias, contacto directo con agua, toallas, fomites o vía fecal-oral",
+            "c) Son virus desnudos, resistentes y persistentes en el ambiente",
+            "d) Todos los serotipos causan únicamente infecciones respiratorias"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 88,
+        "question": "Con respecto a Corynebacterium diphteriae, marque la opción correcta:",
+        "options": [
+            "a) No existe inmunoprofilaxis",
+            "b) Las cepas portadoras de un fago lisogénico son las que causan difteria",
+            "c) Todas las cepas causan difteria"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 89,
+        "question": "Los microorganismos que crecen mejor a una concentración de oxígeno inferior a la atmosférica se denominan:",
+        "options": [
+            "a) Aerobios obligados",
+            "b) Aerobios estrictos",
+            "c) Aerobios facultativos",
+            "d) Anaerobios facultativos",
+            "e) Microaerófilos"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 90,
+        "question": "Respecto a Bacteroides:",
+        "options": [
+            "a) Es un microorganismo anaerobio estricto",
+            "b) Es el microorganismo anaerobio mayoritario del intestino humano",
+            "c) Pueden producir infecciones",
+            "d) Todas las anteriores"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 91,
+        "question": "¿Cuál de los siguientes es el grado mínimo de infección sin respuesta del huésped?",
+        "options": [
+            "a) Colonización",
+            "b) Infección inaparente",
+            "c) Enfermedad infecciosa",
+            "d) Todas las anteriores",
+            "e) Ninguna de las anteriores"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 92,
+        "question": "¿Cuáles de los siguientes virus son enterovirus?",
+        "options": [
+            "a) Echovirus",
+            "b) Rotavirus",
+            "c) Virus de la poliomielitis",
+            "d) Coxsackie A"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 93,
+        "question": "Sobre la adherencia microbiana, marque la opción correcta:",
+        "options": [
+            "a) Está ligado a estructuras superficiales denominadas fimbrias o Pili",
+            "b) Está ligado a estructuras superficiales denominadas flagelos",
+            "c) No es un factor de virulencia"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 94,
+        "question": "Giardia duodenalis suele producir disentería y úlceras intestinales",
+        "options": [
+            "a) Verdadero",
+            "b) Falso"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 95,
+        "question": "Entamoeba histolytica puede producir afectación hepática",
+        "options": [
+            "a) Verdadero",
+            "b) Falso"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 96,
+        "question": "La coccidiosis intestinal afecta más a inmunosuprimidos que a inmunocompetentes",
+        "options": [
+            "a) Verdadero",
+            "b) Falso"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 97,
+        "question": "Algunos protozoarios tienen un tamaño que permite verlos a simple vista",
+        "options": [
+            "a) Verdadero",
+            "b) Falso"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 98,
+        "question": "El flujo vaginal debe enviarse rápidamente al laboratorio para detectar la Trichomonas vaginalis",
+        "options": [
+            "a) Verdadero",
+            "b) Falso"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 99,
+        "question": "Un joven de 8 años que fue operado de urgencia por una apendicitis aguda a las 48h presenta tumefacción de la herida y fiebre. Se realiza toma de muestra por punción de la herida. En coloración de Gram se observan abundantes leucocitos y abundantes bacilos Gram negativos. Cultivo bacteriológico en curso. Con esos datos, ¿cuál puede ser el agente causal?",
+        "options": [
+            "a) Shigella spp",
+            "b) Klebsiella pneumoniae",
+            "c) Escherichia coli enteroinvasiva"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 100,
+        "question": "Hongos. La correcta:",
+        "options": [
+            "a) Todos los hongos poseen membrana nuclear",
+            "b) Todos los hongos son aerobios estrictos",
+            "c) Todos los hongos son unicelulares"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 101,
+        "question": "Una anciana de 78 años presenta signos y síntomas de gripe. Señale la correcta:",
+        "options": [
+            "a) La vacunación no previene de forma completa los cuadros gripales",
+            "b) La gripe es una enfermedad viral mas común en la época estival y el paciente no presenta complicaciones",
+            "c) El síndrome gripal esta producido por el virus influenza y hay un único serotipo a nivel mundial"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 102,
+        "question": "Un paciente de 35 años presenta una celulitis de miembro inferior. Se le realiza punción de la zona afectada. Se solicita directo, cultivo aeróbico y anaeróbico. En la coloración de Gram del material de la herida se observan abundantes leucocitos, abundantes bacilos Gram positivos en cadenas y regulares bacilos Gram positivos esporulados. Cultivo bacteriológico en aerobiosis: negativo a las 24h. ¿Cuál es la respuesta correcta?",
+        "options": [
+            "a) La patología es polimicrobiana producida por bacterias anaerobias",
+            "b) La toma de muestra debió hacerse por hisopado",
+            "c) Los bacilos Gram positivos que se observan perden ser Corynebacterium spp"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 103,
+        "question": "Un paciente de 75 años luego de una cirugía colónica de urgencia por obstrucción comienza con fiebres en picos, la herida presenta signos de flogosis. EN la coloración de Gram del material de la herida se observan abundantes leucocitos, abundantes bacilos Gram positivos en cadena y regulares bacilos Gram positivos esporulados. Cultivo en aerobiosis: negativo en 24h. Con estos datos, ¿cuál la respuesta correcta?",
+        "options": [
+            "a) La toma de muestra debió hacerse por hisopado",
+            "b) La muestra debe conservarse en heladera hasta su procesamiento",
+            "c) Los agentes causantes pueden ser bacterias anaerobias"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 104,
+        "question": "Rabia. La correcta:",
+        "options": [
+            "a) La encefalitis rábica es una complicación banal",
+            "b) Es un virus envuelto y neurotropo",
+            "c) Se debe vacunar a los humanos para prevenir la infección"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 105,
+        "question": "El parásito más frecuente que causa diarrea en infantes es:",
+        "options": [
+            "a) Criptosporidium hominis",
+            "b) Giardia lamblia",
+            "c) Entamoeba histolytica",
+            "d) Todos son frecuentes",
+            "e) Ninguno afecta a los niños"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 106,
+        "question": "El impétigo es principalmente causado por:",
+        "options": [
+            "a) Streptococcus pyogenes",
+            "b) Staphylococcus aureus",
+            "c) Streptococcus agalactiae"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 107,
+        "question": "Ante una infección viral, se produce un proceso inflamatorio a predominio de:",
+        "options": [
+            "a) Neutrófilos",
+            "b) Eosinófilos",
+            "c) Linfocitos",
+            "d) Basófilos"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 108,
+        "question": "¿Cuál de estos microorganismos NO es causante de un cuadro clínico grave en un infante?",
+        "options": [
+            "a) Virus sincicial respiratorio",
+            "b) Rotavirus",
+            "c) Norovirus",
+            "d) Parainfluenza"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 109,
+        "question": "¿Cuál de estos parásitos se reproducen de manera sexual:",
+        "options": [
+            "a) Taenia Solium",
+            "b) Taenia Saginata",
+            "c) Ascaris Lumbricoides",
+            "d) Trichomona Vaginalis"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 110,
+        "question": "Los virus de la hepatitis que se pueden prevenir mediante vacunas son:",
+        "options": [
+            "a) Solo el virus de la hepatitis A",
+            "b) Solo el virus de la hepatitis B",
+            "c) Solo el virus de la hepatitis C",
+            "d) Solo el virus de la hepatitis D",
+            "e) Solo el virus de la hepatitis E",
+            "f) Virus de la hepatitis A y B",
+            "g) Virus de la hepatitis A, B y C",
+            "h) Los 5 tipos son prevenibles"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 111,
+        "question": "El virus de la hepatitis B se transmite por:",
+        "options": [
+            "a) Vía sexual y parenteral",
+            "b) Mediante agua contaminada",
+            "c) Vía sexual, vertical y parenteral"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 112,
+        "question": "Bacterias correcto:",
+        "options": [
+            "a) Todas producen esporas",
+            "b) Todas se multiplican por fisión binaria",
+            "c) Todas poseen cápsula"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 113,
+        "question": "Una mujer de 30 años con antecedentes de infecciones urinarias a repetición presenta signos y síntomas de cistitis. Se le realiza urocultivo. En la coloración de Gram se observan abundantes leucocitos y abundantes bacilos gram negativos. Cultivo bacteriológico en curso. Con estos datos, ¿cuál puede ser el agente causal?",
+        "options": [
+            "a) Klebsiella pneumoniae",
+            "b) Salmonella entérica",
+            "c) Shigella sp"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 114,
+        "question": "En la microbiota habitual de piel podemos encontrar distintas especies de Staphylococcus (S. aureus en 30% de la población) Marque la respuesta correcta:",
+        "options": [
+            "a) Todos tienen catalasa y son cocos gram positivos en racimos",
+            "b) S. aureus segrega biofilm o \"slime\" que recubren catéteres y prótesis",
+            "c) S. saprophyticus produce enfermedad mediante toxinas"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 115,
+        "question": "Rotavirus:",
+        "options": [
+            "a) Es un virus desnudo",
+            "b) La infección deja inmunidad permanente",
+            "c) Se contagia por contacto con fluidos corporales"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 116,
+        "question": "Un paciente de 30 años presenta diarrea acuosa, con 10 deposiciones por día. El recuento de leucocitos en las heces es negativo. El agente causante puede ser Escherichia coli enterotóxigénica (ECET) por:",
+        "options": [
+            "a) Ser la causa más común de diarrea del viajero",
+            "b) Ser causa de brotes intrahospitalarios",
+            "c) Ser causa de diarrea invasiva"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 117,
+        "question": "Un bebé de 6 meses presenta un cuadro respiratorio agudo con fiebre y disnea. Con el diagnóstico presuntivo de bronquiolitis ¿cómo haría para certificar dicho diagnóstico?",
+        "options": [
+            "a) Solicitaría búsqueda de Ag de VSR en aspirado nasofaríngeo",
+            "b) Solicitaría búsqueda de anticuerpos IgG anti VSR en suero",
+            "c) Solicitaría hemograma completo con plaquetas"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 118,
+        "question": "Un paciente de 35 años presenta una celulitis de miembro inferior. Se le realiza punción de la zona afectada. Se solicita directo, cultivo aeróbico y anaeróbico. En la coloración de Gram del material de la herida se observan abundantes leucocitos, abundantes bacilos Gram negativos, regulares cocos Gram positivos en cadena y regulares bacilos Gram positivos esporulados. Cultivo bacteriológico en aerobiosis: negativo a las 24 Hs. Cultivo bacteriológico en anaerobiosis: en curso. Con estos datos, ¿cuál es la respuesta correcta?",
+        "options": [
+            "a) La patología es polimicrobiana producida por bacterias anaerobias",
+            "b) Los bacilos Gram positivos que se observan pueden ser Corynebacterium sp",
+            "c) La toma de muestra debió hacerse por hisopado"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 119,
+        "question": "Hepatitis: Marque lo correcto",
+        "options": [
+            "a) El virus de la hepatitis C se contagia por agua contaminada con heces humanas",
+            "b) El virus de la hepatitis E se puede contagiar de madre a hijo por vía transplacentaria",
+            "c) Se denomina superinfección al contagio de virus D y B simultáneamente"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 120,
+        "question": "Marta trae a consulta a su hija Noelia de 2 años con un cuadro de diarrea de 3 semanas de evolución. La mamá le cuenta que no es la primera vez que le sucede.",
+        "options": [
+            "a) Le explica que la diarrea se autolimita así que probablemente en 7-10 días el cuadro ceda",
+            "b) Pide hemograma y Rx de abdomen de pie",
+            "c) Pide parasitológico en fresco y seriado de materia fecal",
+            "d) Indica dieta constipante y medicación antidiarreica"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 121,
+        "question": "Un hombre de 30 años presenta signos de uretritis purulenta. Se le realiza un exudado uretral. En la coloración de Gram se observan abundantes leucocitos y abundantes diplococos Gram negativos. ¿Con estos datos, cual puede ser la bacteria causante?",
+        "options": [
+            "a) Neisseria meningitidis",
+            "b) Acinetobacter baumanni",
+            "c) Neisseria gonorrhoeae",
+            "d) Escherichia coli",
+            "e) Pseudomonas aeruginosa"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 122,
+        "question": "Un hombre de 30 años con uretritis purulenta. Se realiza coloración de Gram de la secreción uretral con el siguiente resultado: se observan abundantes leucocitos polimorfonucleares y regular cantidad de cocos Gram negativos Con estos datos, ¿cuál es la respuesta correcta?",
+        "options": [
+            "a) La causa puede ser Neisseria gonorrheae porque tiene fimbrias para adherirse al epitelio cilíndrico simple de la uretra y el Gram es confirmatorio",
+            "b) La causa puede ser Neisseria gonorrheae se debe hacer cultivo para confirmar el diagnostico",
+            "c) La causa puede ser Neisseria gonorrheae se debe confirmar al diagnóstico con búsqueda de anticuerpo IgM en el suero",
+            "d) La causa puede ser Neisseria gonorrheae se debe confirmar al diagnóstico con búsqueda de antígeno en la secreción para confirmar el resultado",
+            "e) La causa puede ser Neisseria gonorrheae se debe buscar anticuerpos IgG en suero para confirmar infección reciente"
+        ],
+        "source_file": "Microbiologia. CON RESPUESTAS..txt"
+    },
+    {
+        "id": 123,
+        "question": "Responda la opción correcta. Una vez recibido de médico y matriculado, como promocionaría sus servicios como médico.",
+        "options": [
+            "a) Saldría por televisión para promocionar los efectos de los servicios médicos que brinda.",
+            "b) Realizaría una publicidad discreta haciendo hincapié en la especialidad, horarios y lugar de atención.",
+            "c) Resaltaría en radio las bondades de un tratamiento y lo infalible que es.",
+            "d) Haría propaganda en revistas no científicas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 124,
+        "question": "La prevención primaria:",
+        "options": [
+            "a) Tiene por objetivo disminuir la ocurrencia de las enfermedades o reducir su incidencia.",
+            "b) Estas medidas actúan en el periodo prepatogénico, es decir antes de la interacción de los agentes o factores de riesgo.",
+            "c) Sirve para la rehabilitación de personas que han sufrido colisiones.",
+            "d) A y B son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 125,
+        "question": "Concepto de inequidad en salud:",
+        "options": [
+            "a) Que cada uno no recibe lo que necesita.",
+            "b) Que la estructura genera diferencias en los colectivos humanos de acceso a derechos.",
+            "c) Que cada uno no recibe lo que merece.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 126,
+        "question": "El contenido arterial de O2:",
+        "options": [
+            "a) Está representado fundamentalmente por la fracción de O2 disuelto en sangre.",
+            "b) Es independiente de la concentración de hemoglobina en sangre.",
+            "c) Guarda una relación con el % de saturación de hemoglobina.",
+            "d) Disminuye cuando disminuye la presión parcial alveolar de O2."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 127,
+        "question": "Los rayos ultravioletas:",
+        "options": [
+            "a) Son radiaciones corpusculares.",
+            "b) Son ionizantes aquellos con mayor longitud de onda.",
+            "c) Tiene utilidad en el campo de la microbiología.",
+            "d) A y B son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 128,
+        "question": "Las especies reactivas del oxígeno:",
+        "options": [
+            "a) Ceden electrones a otros compuestos.",
+            "b) Toman electrones de otros compuestos.",
+            "c) Toman carbono de otros compuestos.",
+            "d) Ceden carbono a otros compuestos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 129,
+        "question": "La enzima catalasa, descompone el peróxido de hidrógeno, en agua y:",
+        "options": [
+            "a) Radical hidroxilo.",
+            "b) Oxígeno singlete.",
+            "c) Oxígeno.",
+            "d) Anión superóxido."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 130,
+        "question": "Las funciones psíquicas son:",
+        "options": [
+            "a) Cognición y voluntad.",
+            "b) Afectividad y motricidad.",
+            "c) A y B son correctas.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 131,
+        "question": "La biodisponibilidad de un fármaco. Seleccione una respuesta correcta:",
+        "options": [
+            "a) Depende solamente de la distribución.",
+            "b) Es la fracción de la dosis que ingresa a circulación sistémica en forma inalterada.",
+            "c) Indica la velocidad de la forma inalterada que llega a circulación sistémica.",
+            "d) No se puede estimar como AUC extravascular intravascular."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 132,
+        "question": "La concentración alcanzada por un fármaco en la biofase varía a lo largo del tiempo como resultado de un equilibrio dinámico entre:",
+        "options": [
+            "a) Excreción.",
+            "b) Distribución.",
+            "c) Metabolización.",
+            "d) Todas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 133,
+        "question": "Sobre volumen de distribución alto. Si un fármaco tiene un volumen de distribución de 150l. Significa que:",
+        "options": [
+            "a) El fármaco queda confinado al compartimiento central.",
+            "b) El fármaco tiene una baja afinidad por proteínas tisulares y reservorios corporales.",
+            "c) El fármaco tiene una alta afinidad por proteínas tisulares y reservorios corporales.",
+            "d) El peso aproximado del paciente es de 150kg."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 134,
+        "question": "En un esquema de dosificación múltiple es importante conocer Cmax en estado estacionario porque da información sobre:",
+        "options": [
+            "a) Riesgo de caer por debajo del nivel de efectividad.",
+            "b) Tiempo que debe transcurrir entre dosis.",
+            "c) Duración del efecto.",
+            "d) Riesgo de superar el umbral de toxicidad."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 135,
+        "question": "El parámetro que da la información respecto a la afinidad de un fármaco es:",
+        "options": [
+            "a) La velocidad de eliminación es constante e independiente de la concentración de fármaco.",
+            "b) La fórmula para calcular el tiempo de vida media t 1/2=Ln2/ke.",
+            "c) Para rectificar la gráfica \"concentración plasmática vs tiempo\" es necesario aplicar escala logarítmica a la ordenada.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 136,
+        "question": "El parámetro que da información respecto a la afinidad de un fármaco es:",
+        "options": [
+            "a) EC50.",
+            "b) KD.",
+            "c) Pendiente de la curva efecto vs log. Concentración.",
+            "d) Pendiente de la curva ocupación de receptores vs log. Concentración."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 137,
+        "question": "La capacidad que tiene un fármaco de producir un efecto particular con preferencia sobre otros efectos define la:",
+        "options": [
+            "a) Potencia.",
+            "b) Selectividad.",
+            "c) Afinidad.",
+            "d) Especificidad."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 138,
+        "question": "¿Cuál de los siguientes parámetros distinguirá a un agonista parcial de un agonista completo?",
+        "options": [
+            "a) La afinidad por el receptor.",
+            "b) La actividad intrínseca o el efecto máximo.",
+            "c) La potencia.",
+            "d) La dosis efectiva 50 (E50)."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 139,
+        "question": "Con respecto a monóxido de carbono (CO) marque lo correcto:",
+        "options": [
+            "a) Es un gas irritante de las vías aéreas que se produce por la combustión completa del carbón o de cualquier material que contenga carbono.",
+            "b) La afinidad de la hemoglobina por el CO es menor que su afinidad por el oxígeno.",
+            "c) Para confirmar el diagnóstico de intoxicación con CO se solicita el dosaje de carboxihemoglobina en sangre.",
+            "d) Los órganos más afectados en la intoxicación con CO son el SNC y el hígado."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 140,
+        "question": "Con respecto a tóxicos marque lo INCORRECTO:",
+        "options": [
+            "a) Para confirmar la intoxicación con plomo se pide dosaje de plomo en orina.",
+            "b) El monóxido de carbono es un gas que no tiene olor por eso la persona no se da cuenta de que está intoxicándose."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 141,
+        "question": "Un bebé de 6 meses presenta un cuadro respiratorio agudo con fiebre y disnea. Con el diagnóstico presuntivo de bronquiolitis. ¿Cómo haría para certificar dicho diagnóstico?",
+        "options": [
+            "a) Solicitaría hemograma completo con plaquetas.",
+            "b) Solicitaría búsqueda de anticuerpos Ig G anti VSR en suero.",
+            "c) Solicita búsqueda de Ag de VSR en aspirado nasofaríngeo.",
+            "d) Solicitaría búsqueda de AC Ig M anti coronavirus en suero del paciente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 142,
+        "question": "Hemoflagelados. Señale lo correcto:",
+        "options": [
+            "a) En Argentina la leishmaniasis visceral es endémica.",
+            "b) Leishmania se observan en raspado mucoso como amastigote intracelular.",
+            "c) El agente transmisor del Chagas habita en el norte y centro de nuestro país.",
+            "d) El reservorio triatoma infestans son las aves de corral."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 143,
+        "question": "Señale la secuencia correcta que le presentamos correspondiente a: Tipos de observación microscópica – observación – compatible con:",
+        "options": [
+            "a) Ziehl Neelsen – Formas espiraladas – Cryptococcus neoformans.",
+            "b) Gram – bacilos gram positivos – lactobacillus.",
+            "c) Campo oscuro – cocos agrupados en racimos – streptococcus pyogenes.",
+            "d) Gota pendiente – levaduras capsuladas – mycobacterium tuberculosis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 144,
+        "question": "Una niña de 5 años presenta un exantema maculopapular áspero al tacto en tronco. Refiere angina aguda desde hace 5 días. Con estos datos señale la respuesta correcta.",
+        "options": [
+            "a) El exantema es debido a una infección por Streptococcus beta hemolítico grupo A por la toxina eritrogénica.",
+            "b) El exantema es debido a una infección por Streptococcus beta hemolítico grupo A por las hemolisinas beta.",
+            "c) El exantema es debido a una infección por Streptococcus beta hemolítico grupo A por ser una bacteria piógena.",
+            "d) El exantema es debido a una infección por Streptococcus beta hemolítico grupo A por la toxina exfoliativa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 145,
+        "question": "Un paciente de 20 años presenta signos y síntomas de neumonía aguda. Se le realiza una muestra de esputo gram y cultivo. En el examen directo: se observan abundantes leucocitos polimorfonucleares y abundantes diplococos gram + cultivo bacteriológico en curso. Con estos datos señale la respuesta correcta:",
+        "options": [
+            "a) El agente etiológico de esta infección puede ser Streptococcus Pneumoniae por ser de la flora habitual de la piel.",
+            "b) El agente etiológico de esta infección puede ser Streptococcus grupo viridans por ser parte de la flora habitual de la cavidad bucal.",
+            "c) El agente etiológico de esta infección puede ser Streptococcus Pneumoniae por ser parte de la flora habitual de las vías respiratorias superiores.",
+            "d) El agente etiológico de esta infección puede ser Enterococcus spp por ser parte de la flora habitual de las vías respiratorias superiores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 146,
+        "question": "Durante una inundación un pescador residente en las islas del Paraná de 30 años de edad, consulta por fiebre alta, mialgias, artralgias astenia, decaimiento. Al examen físico se constata inyección conjuntival. Con la sospecha clínica de leptospirosis, señale la respuesta correcta:",
+        "options": [
+            "a) Se debe solicitar secreción conjuntival.",
+            "b) Solicitaría hemocultivos seriados.",
+            "c) Solicitaría urocultivo con coloración de Gram urgente para decidir el diagnóstico.",
+            "d) Se debe solicitar tinción de gram de la mucosa yugal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 147,
+        "question": "Ante la consulta de una madre con su hijo de 6 años con síntomas y signos compatibles con una tos convulsa. ¿Cuál sería la conducta a seguir?",
+        "options": [
+            "a) Para confirmar el diagnóstico le pide un hemocultivo.",
+            "b) Si el niño tiene el esquema de vacunación completo no inicia el tratamiento.",
+            "c) Solicita un nasofaríngeo para Bordetella Pertussis.",
+            "d) Comienza el tratamiento y le hace un cultivo de 48hrs."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 148,
+        "question": "Con micosis profunda, marque lo correcto:",
+        "options": [
+            "a) Los hongos productores de micosis profundas son de crecimiento lento y dimórficos termales.",
+            "b) El cryptococcus neoformans produce meningitis a líquido turbio en paciente inmunocompetentes.",
+            "c) La zona endémica para cryptococcus neoformans es la selva misionera.",
+            "d) Paracoccidioides brasiliensis tiene como reservorio las aves."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 149,
+        "question": "Cuál de las siguientes no es una densidad radiológica:",
+        "options": [
+            "a) Aire.",
+            "b) Calcio.",
+            "c) Grasa.",
+            "d) Músculo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 150,
+        "question": "Cuál de los siguientes espacios claros se visualiza en la Rx de perfil:",
+        "options": [
+            "a) Retroesternal.",
+            "b) Paracardíaco derecho.",
+            "c) Paratraqueal derecho.",
+            "d) Supraesternal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 151,
+        "question": "Teletórax significa:",
+        "options": [
+            "a) Distancia tubo placa de 1 m y posición AP del paciente.",
+            "b) Distancia tubo placa de 1 m y posición PA del paciente.",
+            "c) Distancia tubo placa de 1,80 m y posición AP del paciente.",
+            "d) Distancia tubo placa de 1,80 m y posición PA del paciente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 152,
+        "question": "El hilio pulmonar radiológico está determinado por:",
+        "options": [
+            "a) En un 90% por la arteria pulmonar.",
+            "b) En un 90% por la arteria pulmonar superior.",
+            "c) En un 50% por cada una de las estructuras anteriores.",
+            "d) Las estructuras vasculares no participan en la formación de la imagen radiológica."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 153,
+        "question": "En una Rx de tórax F, cuál de los dos hilios es habitualmente el más alto:",
+        "options": [
+            "a) El izquierdo.",
+            "b) El derecho.",
+            "c) No tienen diferencia de altura.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 154,
+        "question": "Con la redistribución del flujo se establece cuando la relación entre las arterias vértice/base es de:",
+        "options": [
+            "a) 0,6/1.",
+            "b) 1/1.",
+            "c) 1,5/1.",
+            "d) 2/1."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 155,
+        "question": "La unidad anatomofuncional del pulmón es:",
+        "options": [
+            "a) Acino.",
+            "b) Acino y bronquiolo respiratorio.",
+            "c) Lóbulo pulmonar primario.",
+            "d) Lóbulo pulmonar secundario."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 156,
+        "question": "En la segmentación pulmonar, el lóbulo superior derecho tiene cuales segmentos:",
+        "options": [
+            "a) Apical, posteroanterior.",
+            "b) Anterior y ápicoposterior.",
+            "c) Anterior, posterior y apical.",
+            "d) Apicoanterior y posterior."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 157,
+        "question": "¿Cuál de las siguientes No es una densidad radiológica?",
+        "options": [
+            "a) Aire.",
+            "b) Parénquima.",
+            "c) Sangre.",
+            "d) Óseo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 158,
+        "question": "En la segmentación pulmonar, el lóbulo superior izquierdo tiene cuales segmentos:",
+        "options": [
+            "a) Apical, posteroanterior.",
+            "b) Anterior y ápicoposterior.",
+            "c) Anterior, posterior y apical.",
+            "d) Apicoanterior y posterior."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 159,
+        "question": "La cisura menor divide:",
+        "options": [
+            "a) Lóbulo superior derecho de lóbulo medio derecho.",
+            "b) Lóbulo superior derecho de lóbulo inferior derecho.",
+            "c) Lóbulo superior izquierdo de lóbulo de la língula.",
+            "d) Lóbulo superior izquierdo de lóbulo inferior izquierdo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 160,
+        "question": "El contorno del mediastino derecho está constituido por:",
+        "options": [
+            "a) Vena innominada izquierda, VCS, AI.",
+            "b) Vena innominada derecha, VCS, AD, VCI.",
+            "c) Vena innominada derecha, VCI y AD.",
+            "d) Vena innominada izquierda, cayado aórtico y VI."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 161,
+        "question": "En la relación la HC marque lo correcto:",
+        "options": [
+            "a) El motivo de consulta es el signo, síntoma que lleva al paciente a la consulta.",
+            "b) En los antecedentes personales interrogamos aquellos episodios médicos sufridos por el paciente y sus convivientes.",
+            "c) En los antecedentes familiares interrogamos enfermedades hereditarias y genéticas de padres, abuelos y cónyuge.",
+            "d) En relación a la ocupación del paciente nos interesa tanto la actual como las previas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 162,
+        "question": "En relación a la fiebre señale la opción correcta:",
+        "options": [
+            "a) En la fiebre intermitente los valores de temperatura descienden sin llegar a valores normales en algún momento del día.",
+            "b) En la fiebre recurrente los valores de temperatura descienden en algún momento del día sin llegar a valores normales.",
+            "c) La fiebre sostenida presenta diferentes valores diurnos y nocturnos.",
+            "d) A y B son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 163,
+        "question": "Cuáles de estos datos obtenidos en el interrogatorio ubicaría en hábitos:",
+        "options": [
+            "a) Edad, sexo, religión.",
+            "b) HTA y diabetes.",
+            "c) Tabaquismo y consumo de alcohol.",
+            "d) Sedentarismo, diuresis, alergias."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 164,
+        "question": "Marque la respuesta correcta:",
+        "options": [
+            "a) La fatiga es un síntoma producido por enfermedad física o psíquica.",
+            "b) La astenia es la debilidad localizada de algún miembro.",
+            "c) Las causas de fatiga son siempre patológicas.",
+            "d) B y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 165,
+        "question": "En relación al edema, marque la respuesta correcta:",
+        "options": [
+            "a) Puede originarse por aumento de la presión oncótica.",
+            "b) Puede originarse por un aumento de la presión hidrostática.",
+            "c) Puede originarse por una disminución de la permeabilidad vascular.",
+            "d) A + B correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 166,
+        "question": "Marque la opción correcta en relación a disnea:",
+        "options": [
+            "a) La disnea de esfuerzo grado I aparece en esfuerzos moderados.",
+            "b) La ortopnea es la disnea que aparece en decúbito lateral.",
+            "c) La disnea de esfuerzo de grado III aparece en esfuerzos mínimos.",
+            "d) La platipnea es la disnea que aparece en decúbito dorsal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 167,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) La hipoxemia es la caída de la presión de oxígeno en sangre venosa por debajo de los 80 mmHg.",
+            "b) La hipoxia es el déficit de oxígeno a nivel tisular siendo su hallazgo sinónimo de hipoxemia.",
+            "c) La cianosis es un signo precoz de hipoxemia.",
+            "d) La cianosis es producida por la presencia de hemoglobina reducida en sangre."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 168,
+        "question": "Marque lo correcto en relación a hemoptisis:",
+        "options": [
+            "a) Es la eliminación de sangre con el vómito.",
+            "b) La sangre es roja, brillante y espumosa.",
+            "c) La sangre es oscura y va precedida de tos.",
+            "d) La eliminación de sangre va precedida de náuseas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 169,
+        "question": "En una neumonía causada por estreptococo Pneumoniae que tos puede presentar el paciente:",
+        "options": [
+            "a) Tos seca y quintosa.",
+            "b) Tos con expectoración mucopurulenta.",
+            "c) Tos mucosa con estrías hemoptóicas.",
+            "d) Tos con expectoración de mucosas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 170,
+        "question": "Qué signo busca en un paciente con Edema:",
+        "options": [
+            "a) Signo de godet.",
+            "b) Signo de la onda líquida.",
+            "c) Signo del pliegue cutáneo.",
+            "d) Signo de la tecla."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 171,
+        "question": "Un paciente consulta por disnea permanente debido a su insuficiencia respiratoria. Qué signos buscaría en el paciente:",
+        "options": [
+            "a) Tiraje supraesternal.",
+            "b) Aleteo nasal.",
+            "c) Cianosis.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 172,
+        "question": "Qué órgano carece de sensibilidad al dolor:",
+        "options": [
+            "a) Pleura parietal.",
+            "b) Miocardio.",
+            "c) Parénquima pulmonar.",
+            "d) Bronquios."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 173,
+        "question": "Proliferación del endometrio después de cada periodo menstrual:",
+        "options": [
+            "a) Hipertrofia fisiológica.",
+            "b) Hiperplasia fisiológica.",
+            "c) Hiperplasia por hiperestrogenismo.",
+            "d) Hipertrofia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 174,
+        "question": "Un niño de 11 años se hace un corte con una piedra al caerse, las bacterias penetran a la matriz extracelular. Se genera una respuesta inflamatoria frente a las mismas, cuál de las siguientes células intentan eliminar a las mismas:",
+        "options": [
+            "a) Linfocitos B.",
+            "b) Eosinófilos.",
+            "c) Polimorfonucleares.",
+            "d) Linfocitos T."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 175,
+        "question": "La necrosis se define:",
+        "options": [
+            "a) Cambios morfológicos que siguen a la muerte celular.",
+            "b) Cambios morfológicos que siguen a la muerte celular en un organismo vivo.",
+            "c) Muerte celular programada.",
+            "d) Muerte celular."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 176,
+        "question": "Acúmulo intracelular que produce aspecto homogéneo, vítreo, rosado en los cortes histológicos coloreados con hematoxilina/eosina:",
+        "options": [
+            "a) Cuerpos de Russell.",
+            "b) Acúmulo amiloide.",
+            "c) Acúmulo proteico en la pared de arteriolas renales en pacientes diabéticos o hipertensos.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 177,
+        "question": "Hombre de 50 años que sufre infarto de cara anterior de ventrículo izquierdo, debido a esto comienza con disnea grave y abrupta. ¿Cuál de las siguientes alteraciones microscópicas es más probable que presente en los pulmones?",
+        "options": [
+            "a) Exudado alveolar con polinucleares.",
+            "b) Fibrosis de los tabiques interalveolares.",
+            "c) Fibrosis pleural.",
+            "d) Trasudado alveolar."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 178,
+        "question": "En un infarto de miocardio la reparación es por fibrosis. Esto se debe a que el miocito cardíaco es una célula:",
+        "options": [
+            "a) Estable.",
+            "b) Permanente.",
+            "c) Lábil.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 179,
+        "question": "La formación de un trombo requiere:",
+        "options": [
+            "a) Flujo turbulento.",
+            "b) Lesión endotelial.",
+            "c) Estado de hipercoagulabilidad.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 180,
+        "question": "Mujer de 53 años hipertensa de larga data, con tratamiento discontinuo, cuál de las siguientes alteraciones celulares es posible observar en el miocardio:",
+        "options": [
+            "a) Apoptosis.",
+            "b) Displasia.",
+            "c) Hiperplasia.",
+            "d) Hipertrofia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 181,
+        "question": "Una mujer de 68 años perdió el conocimiento y al despertarse una hora después no puede hablar ni mueve el brazo derecho, en la TAC se observa un área quística del lóbulo parietal izquierdo. Cuál de los siguientes procesos patológicos es posible que hayan tenido lugar:",
+        "options": [
+            "a) Apoptosis.",
+            "b) Necrosis coagulativa.",
+            "c) Necrosis grasa.",
+            "d) Necrosis licuefactiva."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 182,
+        "question": "¿Cuál de las siguientes noxas puede ser considerada una injuria química?",
+        "options": [
+            "a) Electricidad.",
+            "b) Virus.",
+            "c) Rayos x.",
+            "d) Glucosa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema A.txt"
+    },
+    {
+        "id": 183,
+        "question": "El profesional médico conforme la normativa ética no está obligado a atender un paciente, fuera de sus rutinas habituales y condiciones de desempeño de tareas cuando:",
+        "options": [
+            "a) Cuando se lo solicita un colega y no hay otro médico en la localidad.",
+            "b) Cualquiera sea el motivo de consulta y no hay otro médico en la localidad.",
+            "c) Se trata de urgencia con riesgo vital y no hay otro servicio médico a tal fin.",
+            "d) Cuando el paciente no sigue sus indicaciones."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 184,
+        "question": "Concepto de inequidad en salud:",
+        "options": [
+            "a) Que cada uno no recibe lo que necesita.",
+            "b) Que cada uno no recibe lo que merece.",
+            "c) Que cada estructura social genera diferencias en los colectivos humanos de acceso a derechos.",
+            "d) A y C correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 185,
+        "question": "Con respecto a prevención primaria:",
+        "options": [
+            "a) Se distinguen dos subniveles: el de prevención inespecífica y la protección específica.",
+            "b) Es la correcta utilización de antibióticos para evitar la resistencia microbiana.",
+            "c) Se aplica cuando las lesiones que ha producido la enfermedad son irreversibles o esta se halla en estado crónico.",
+            "d) Se define como el diagnóstico precoz y el tratamiento oportuno."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 186,
+        "question": "En los capilares periféricos, la difusión neta de O2 hacia los tejidos es directamente proporcional:",
+        "options": [
+            "a) La diferencia transepitelial en las presiones parciales de agua.",
+            "b) A la velocidad de la columna de sangre.",
+            "c) Al espesor de la membrana.",
+            "d) Al peso molecular del gas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 187,
+        "question": "Los rayos gamma:",
+        "options": [
+            "a) Son radiaciones corpusculares de alta energía.",
+            "b) Son radiaciones electromagnéticas de alta energía.",
+            "c) Son radiaciones electromagnéticas de alta longitud de onda.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 188,
+        "question": "Una de las vitaminas que interviene en la neutralización de las especies reactivas es:",
+        "options": [
+            "a) Vitamina B5.",
+            "b) Vitamina E.",
+            "c) Vitamina B1.",
+            "d) Vitamina D."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 189,
+        "question": "La enzima catalasa cataliza la eliminación de:",
+        "options": [
+            "a) Oxígeno singlete.",
+            "b) Peróxido de hidrógeno.",
+            "c) Radical libre.",
+            "d) Anión superóxido."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 190,
+        "question": "En el desarrollo de trauma:",
+        "options": [
+            "a) Es necesario un fenotipo vulnerable.",
+            "b) No es necesario un fenotipo vulnerable.",
+            "c) Depende de la intensidad del evento.",
+            "d) A y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 191,
+        "question": "Virus respiratorios: Marque la premisa correcta:",
+        "options": [
+            "a) El virus influenza posee diferentes serotipos.",
+            "b) Los virus parainfluenza presentan un solo serotipo.",
+            "c) Es improbable la infección con VSR en niños menores de 2 años.",
+            "d) La inmunidad natural que deja la infección por el virus del sarampión no los protege durante toda la vida."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 192,
+        "question": "Hemoflagelados: señale lo correcto:",
+        "options": [
+            "a) El trypanosoma cruzi no se cultiva.",
+            "b) El diagnóstico de chagas congénito se realiza por método de Strout.",
+            "c) El agente transmisor de la leishmaniasis es el mosquito Culex.",
+            "d) El xenodiagnóstico es una prueba serológica de inmunidad humoral."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 193,
+        "question": "Señale la secuencia correcta que le presentamos correspondiente a: Tipos de observación microscópica – observación – compatible con:",
+        "options": [
+            "a) Ziehl Neelsen – Formas espiraladas – Cryptococcus neoformans.",
+            "b) Gram – bacilos gram positivos – lactobacillus.",
+            "c) Campo oscuro – cocos agrupados en racimos – streptococcus pyogenes.",
+            "d) Gota pendiente – levaduras capsuladas – mycobacterium tuberculosis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 194,
+        "question": "Un hombre de 50 años, residente en centro de la ciudad de rosario presenta un cuadro respiratorio con esputo hemoptóico, febrícula y adelgazamiento de más de un mes de evolución. En el gram de una muestra de esputo, se observan abundantes leucocitos, escasas células epiteliales, regular cantidad de cocos gram positivos en cadena. En el Ziehl: no se observan BAAR. En el directo: se observan formas levaduriformes intracelulares, con estos datos, señale lo correcto:",
+        "options": [
+            "a) Se descarta cuadro infeccioso.",
+            "b) La muestra de esputo no es representativa.",
+            "c) Puede tratarse de una histoplasmosis.",
+            "d) El agente causante del cuadro es Mycobacterium leprae."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 195,
+        "question": "Durante la inundación un pescador residente en las islas del Paraná, de 30 años de edad, consulta por fiebre alta, mialgias, artralgias, astenia, decaimiento. Al examen físico se constata inyección conjuntival. ¿Qué microorganismo podría ser el causante?",
+        "options": [
+            "a) Leptospira spp.",
+            "b) Borrelia spp.",
+            "c) Enterococcus sp.",
+            "d) Bordetella pertussis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 196,
+        "question": "Un paciente de 16 años presenta un cuadro de meningitis aguda. Se realiza punción lumbar y en el gram del LCR se observan abundantes leucocitos polimorfonucleares y abundantes bacilos gram negativos. ¿Con estos datos cuál puede ser la bacteria causante?",
+        "options": [
+            "a) Streptococcus grupo viridans.",
+            "b) Corynebacterium diphtheriae.",
+            "c) Bordetella pertussis.",
+            "d) Haemophilus influenzae."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 197,
+        "question": "Virus hemorrágicos: señale lo correcto:",
+        "options": [
+            "a) El hantavirus se diagnostica a través de la detección de IgG en una muestra de sangre.",
+            "b) El virus del dengue siempre produce infecciones hemorrágicas.",
+            "c) La fiebre hemorrágica Argentina se previene por la vacuna candid-1.",
+            "d) El hantavirus afecta a las glándulas suprarrenales."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 198,
+        "question": "Bacilos gram positivos aerobios, señale la respuesta:",
+        "options": [
+            "a) Bacillus cereus es responsable de intoxicaciones alimentarias.",
+            "b) Corynebacterium diphtheriae causa intoxicaciones sistémicas por lo tanto se diagnostica con hemocultivos seriados.",
+            "c) Las infecciones por bacillus anthracis se diagnostican mediante urocultivo y coprocultivo.",
+            "d) Listeria monocytogenes causa meningitis aguda en pacientes adultos jóvenes inmunocompetentes."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 199,
+        "question": "Cuál de las siguientes no es una densidad radiológica:",
+        "options": [
+            "a) Aire.",
+            "b) Calcio.",
+            "c) Grasa.",
+            "d) Ganglio."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 200,
+        "question": "Cuál de los siguientes espacios claros se visualiza en la RX de perfil:",
+        "options": [
+            "a) Retroesternal.",
+            "b) Paracardíaco derecho.",
+            "c) Paratraqueal derecho.",
+            "d) Supraesternal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 201,
+        "question": "Teletórax significa:",
+        "options": [
+            "a) Distancia tubo placa de 1m.",
+            "b) Distancia tubo placa de 0,80m.",
+            "c) Distancia tubo placa de 1,80m.",
+            "d) Distancia tubo placa 2,80m."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 202,
+        "question": "El hilio pulmonar radiológico está determinado por:",
+        "options": [
+            "a) En un 90% por la arteria pulmonar.",
+            "b) En un 90% por la arteria pulmonar superior.",
+            "c) En un 50% por cada una de las estructuras anteriores.",
+            "d) Las estructuras vasculares no participan en la formación de la imagen radiológica."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 203,
+        "question": "En una Rx de tórax F, cuál de los dos hilios es habitualmente el más bajo:",
+        "options": [
+            "a) El izquierdo.",
+            "b) El derecho.",
+            "c) No tienen diferencia de altura.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 204,
+        "question": "Cuál de las siguientes no es una radiación ionizante:",
+        "options": [
+            "a) Rayos X.",
+            "b) Rayos gamma.",
+            "c) Ultrasonido.",
+            "d) A+B."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 205,
+        "question": "Cuál de los siguientes métodos es el adecuado para evaluar inicialmente la glándula tiroides:",
+        "options": [
+            "a) Radiología.",
+            "b) Ultrasonido.",
+            "c) Tomografía.",
+            "d) Resonancia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 206,
+        "question": "La unidad anatomofuncional del pulmón es:",
+        "options": [
+            "a) Acino.",
+            "b) Acino y bronquiolo primario.",
+            "c) Lóbulo pulmonar primario.",
+            "d) Lóbulo pulmonar secundario."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 207,
+        "question": "Cuál es el método de diagnóstico por imágenes que nos permite evaluar con mayor definición el intersticio pulmonar:",
+        "options": [
+            "a) Rx analógica.",
+            "b) Rx digital.",
+            "c) TC alta resolución.",
+            "d) Resonancia magnética."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 208,
+        "question": "En la segmentación pulmonar, el lóbulo superior izquierdo tiene cuales segmentos:",
+        "options": [
+            "a) Apical, posteroanterior.",
+            "b) Anterior y ápicoposterior.",
+            "c) Anterior, posterior y apical.",
+            "d) Apicoanterior y posterior."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 209,
+        "question": "La cisura menor divide:",
+        "options": [
+            "a) Lóbulo superior derecho de lóbulo medio derecho.",
+            "b) Lóbulo superior derecho de lóbulo inferior derecho.",
+            "c) Lóbulo superior izquierdo de lóbulo de la língula.",
+            "d) Lóbulo superior izquierdo de lóbulo inferior izquierdo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 210,
+        "question": "El contorno radiológico mediastinal izquierdo en una Rx F está constituido por:",
+        "options": [
+            "a) Arteria carótida interna izquierda, cayado aórtico, ventrículo derecho.",
+            "b) Arteria subclavia izquierda, cayado aórtico, tronco de la pulmonar y ventrículo izquierdo.",
+            "c) Vena cava superior, aurícula izquierda y ventrículo izquierdo.",
+            "d) Tronco arterial braquiocefálico, arteria pulmonar derecha y ventrículo derecho."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 211,
+        "question": "La depuración de un fármaco:",
+        "options": [
+            "a) Se define como la fracción de la dosis administrada de un fármaco que llega en forma inalterada a la circulación sistémica.",
+            "b) Depende de la vía de administración.",
+            "c) Se define como el volumen de plasma que queda libre de fármaco por unidad de tiempo.",
+            "d) Se expresa en unidades: volumen / masa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 212,
+        "question": "Influencia del pH. El fármaco XV35 es una base débil:",
+        "options": [
+            "a) XV35 se absorbe preferentemente a pH ácido.",
+            "b) XV35 se absorbe preferentemente a pH alcalino.",
+            "c) La eliminación de XV35 se favorece en orina alcalina.",
+            "d) La eliminación de XV35 no se favorece en orina ácida."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 213,
+        "question": "Volumen de distribución. Fórmula:",
+        "options": [
+            "a) Se expresa en kg de peso corporal/litros.",
+            "b) Se calcula como la (dosis x fracción de biodisponibilidad) / ke.",
+            "c) Se calcula como (dosis x fracción de biodisponibilidad) / (concentración plasmática 0).",
+            "d) Se expresa en litros/mg dosis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 214,
+        "question": "Cuál es el parámetro farmacocinético más importante a la hora de determinar el tiempo que tardará la concentración plasmática de un fármaco en llegar al estado estacionario en un esquema de dosis múltiple:",
+        "options": [
+            "a) Volumen de distribución (vd).",
+            "b) El tiempo de vida media (v1/2).",
+            "c) La depuración (clearance).",
+            "d) La biodisponibilidad (f)."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 215,
+        "question": "Considere la curva concentración plasmática vs tiempo tras la administración de una dosis única de un fármaco por vía oral. Las modificaciones de dicha curva en caso de duplicar la dosis incluirían:",
+        "options": [
+            "a) Aumenta el tiempo de latencia.",
+            "b) Aumenta el tiempo al pico.",
+            "c) Aumenta la duración del efecto y aumento de la concentración plasmática al pico.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 216,
+        "question": "La vía de administración sublingual:",
+        "options": [
+            "a) Sufre efecto de primer paso hepático.",
+            "b) Se caracteriza por una rápida velocidad de absorción.",
+            "c) El fármaco solo debe atravesar endotelio capilar para llegar a la sangre.",
+            "d) Es de elección en niños."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 217,
+        "question": "La selectividad de un fármaco es:",
+        "options": [
+            "a) La capacidad de producir un efecto particular con preferencia sobre otros efectos.",
+            "b) Una medida relativa de la capacidad del complejo droga-receptor para producir la respuesta.",
+            "c) La capacidad de interacción con su receptor.",
+            "d) La capacidad de manifestar sus efectos a través de un solo mecanismo de acción."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 218,
+        "question": "La actividad intrínseca (a):",
+        "options": [
+            "a) Es la dosis que logra el 50% del efecto máximo.",
+            "b) Es la concentración de fármaco con la que se logra la ocupación del 50% de los receptores totales de un sistema dado.",
+            "c) Puede adquirir valores entre 0 y 100.",
+            "d) Capacidad del fármaco para estimular el receptor y producir una respuesta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 219,
+        "question": "Con respecto a arsénico marque lo incorrecto:",
+        "options": [
+            "a) El HACRE es una problemática de salud pública donde se encuentran altas concentraciones de arsénico en aguas de bebida en distintas regiones del mundo, incluyendo Argentina.",
+            "b) El arsénico es un metaloide constituyente natural de la corteza terrestre.",
+            "c) Los valores de arsénico en agua de bebida recomendado según la OMS son de 10ug/l.",
+            "d) La intoxicación aguda se relaciona con cáncer de piel."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 220,
+        "question": "Con respecto a generalidades de toxicología, marque lo correcto:",
+        "options": [
+            "a) El peligro es la probabilidad de que un químico cause daños o efectos inaceptables como resultado de exposición de organismos susceptibles o ecosistemas.",
+            "b) El riesgo es la capacidad de un elemento o conjunto de elementos de causar un daño.",
+            "c) La exposición es una función de la cantidad de la sustancia involucrada y el tiempo que dura esa interacción con el organismo o la gente en riesgo.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 221,
+        "question": "En la relación a la HC marque lo correcto:",
+        "options": [
+            "a) El motivo de consulta es el signo, síntoma que lleva al paciente a la consulta.",
+            "b) En los antecedentes personales interrogamos aquellos episodios médicos sufridos por el paciente y sus convivientes.",
+            "c) En los antecedentes familiares interrogamos enfermedades hereditarias y genéticas de padres, abuelos y cónyuge.",
+            "d) En relación a la ocupación del paciente nos interesa aquellas presentes en los últimos 6 meses."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 222,
+        "question": "En relación a la fiebre señale la opción correcta:",
+        "options": [
+            "a) En la fiebre intermitente los valores de temperatura descienden sin llegar a valores normales en algún momento del día.",
+            "b) En la fiebre recurrente los valores de temperatura descienden en algún momento del día sin llegar a valores normales.",
+            "c) La fiebre sostenida tiene valores de temperatura persistentes con variaciones entre el día y la noche.",
+            "d) La fiebre es causada por agentes infecciosos exclusivamente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 223,
+        "question": "Marque la respuesta correcta:",
+        "options": [
+            "a) La fatiga es un síntoma producido por enfermedad exclusivamente física.",
+            "b) La astenia es la debilidad generalizada y puede relacionarse con afecciones del SNC.",
+            "c) Las causas de fatiga son siempre patológicas.",
+            "d) B y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 224,
+        "question": "Marque la opción correcta en relación a disnea:",
+        "options": [
+            "a) La disnea de esfuerzo grado I aparece en esfuerzos moderados.",
+            "b) La ortopnea es la disnea que aparece en decúbito y mejora al sentarse.",
+            "c) La disnea de esfuerzo de grado III aparece en grandes esfuerzos.",
+            "d) La platipnea es la disnea que aparece en decúbito dorsal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 225,
+        "question": "En relación al edema, marque la respuesta correcta:",
+        "options": [
+            "a) Puede originarse por disminución de la presión osmótica.",
+            "b) Puede originarse por un aumento de la presión hidrostática.",
+            "c) Puede originarse por una disminución de la permeabilidad vascular.",
+            "d) A + B correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 226,
+        "question": "En un paciente que consulta por disnea considera las siguientes causas correctas, EXCEPTO:",
+        "options": [
+            "a) Enfermedad pulmonar crónica.",
+            "b) Enfermedad pulmonar alveolar.",
+            "c) Neurosis de ansiedad.",
+            "d) Faringitis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 227,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) La hipoxemia es la caída de la presión de oxígeno en sangre venosa por debajo de los 80 mmHg.",
+            "b) La hipoxia es el déficit de oxígeno a nivel tisular siendo su hallazgo sinónimo de hipoxemia.",
+            "c) La cianosis no es un signo precoz de hipoxemia.",
+            "d) La cianosis es producida por la presencia de hemoglobina reducida en sangre menor a 5 g/100ml."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 228,
+        "question": "Los factores fundamentales para la producción de la gangrena son:",
+        "options": [
+            "a) Interrupción del flujo sanguíneo más infección bacteriana polimicrobiana.",
+            "b) Isquemia por obstrucción vascular.",
+            "c) Necrosis licuefactiva más formación de tejido de granulación.",
+            "d) Ninguna de las anteriores es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 229,
+        "question": "Un paciente adulto mayor presenta un infarto de ventrículo izquierdo. ¿Cuál pudo haber sido la causa más probable?",
+        "options": [
+            "a) Un émbolo originado en el sistema venoso profundo de miembros inferiores.",
+            "b) Un trombo arterial oclusivo en la luz de una arteria coronaria.",
+            "c) Un trombo mural del cayado aórtico.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 230,
+        "question": "Lesión excavada localizada en la superficie de un órgano, secundaria al desprendimiento de tejido inflamatorio necrótico:",
+        "options": [
+            "a) Absceso.",
+            "b) Úlcera.",
+            "c) Infarto.",
+            "d) Cicatriz."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 231,
+        "question": "Cuál de las siguientes noxas puede ser considerada una injuria química:",
+        "options": [
+            "a) Electricidad.",
+            "b) Virus.",
+            "c) Rayos x.",
+            "d) Glucosa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 232,
+        "question": "La formación de un trombo requiere de:",
+        "options": [
+            "a) Flujo turbulento.",
+            "b) Lesión endotelial.",
+            "c) Estado de hipercoagulabilidad.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema B.txt"
+    },
+    {
+        "id": 233,
+        "question": "Los profesionales de la salud donde denunciamos las prácticas que suponemos son antiéticas en el ejercicio de la profesión. Marque la opción correcta.",
+        "options": [
+            "a) En el organismo que tutela la matriculación y las incumbencias de las especialidades, que en nuestra provincia es el colegio de médicos.",
+            "b) En la comisaría más cercana.",
+            "c) En la fiscalía de turno.",
+            "d) Organizando un escrache en las redes sociales."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 234,
+        "question": "Qué categorías refiere el concepto de triple inequidad:",
+        "options": [
+            "a) Triple carga.",
+            "b) Singular, particular y general.",
+            "c) Clase, género, etnia.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 235,
+        "question": "Con respecto a la prevención primaria:",
+        "options": [
+            "a) La prevención inespecífica abarca acciones como mejorar el nivel socioeconómico, actividad física, educación para la salud.",
+            "b) La protección específica se centra por ejemplo en la inmunización, quimioprofilaxis, protección contra los riesgos laborales.",
+            "c) Estas técnicas de la prevención primaria actúan suprimiendo los factores desfavorables antes de que generen la enfermedad o el evento sanitario.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 236,
+        "question": "La enzima superóxido dismutasa convierte el anión superóxido en:",
+        "options": [
+            "a) Peróxido de hidrógeno y oxígeno.",
+            "b) Radicales hidroxilos.",
+            "c) Oxígeno singlete.",
+            "d) Radicales peróxidos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 237,
+        "question": "Las especies reactivas del oxígeno:",
+        "options": [
+            "a) Toman carbono de otros compuestos.",
+            "b) Ceden carbono a otros compuestos.",
+            "c) Ceden electrones a otros compuestos.",
+            "d) Toman electrones de otros compuestos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 238,
+        "question": "Un fenotipo vulnerable:",
+        "options": [
+            "a) Implica cambios neurobiológicos.",
+            "b) Implica cambios conductuales.",
+            "c) A y B son correctas.",
+            "d) Ninguno de ellos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 239,
+        "question": "La oferta distal de oxígeno a un tejido determinado:",
+        "options": [
+            "a) Depende de la presión parcial arterial de oxígeno y de la concentración de hemoglobina.",
+            "b) Es independiente del flujo o volumen minuto cardíaco.",
+            "c) Es directamente proporcional al espesor de la membrana de los capilares tisulares.",
+            "d) Es inversamente proporcional al espesor de la membrana de los capilares tisulares."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 240,
+        "question": "Una radiación electromagnética se caracteriza por:",
+        "options": [
+            "a) Transportar energía en forma de cuantos.",
+            "b) Tener masa en reposo.",
+            "c) Que su energía es independiente de la frecuencia.",
+            "d) B y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 241,
+        "question": "Con respecto al plomo, marque lo incorrecto:",
+        "options": [
+            "a) Las vías de ingreso principales del plomo son la oral y la dérmica.",
+            "b) El plomo interfiere con enzimas de síntesis del HEM.",
+            "c) La exposición al plomo puede ser ambiental y ocupacional.",
+            "d) La intoxicación crónica puede producir encefalopatía, un cuadro grave más frecuente en niños."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 242,
+        "question": "Con respecto a nitritos y nitratos marque lo correcto:",
+        "options": [
+            "a) Las fuentes ambientales más importantes son las antropogénicas.",
+            "b) El nitrito puede reaccionar con la hemoglobina y formar metahemoglobina incapaz de transportar oxígeno.",
+            "c) La cianosis es uno de los primeros signos de metahemoglobinemia.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 243,
+        "question": "La administración simultánea de aspirina y paracetamol produce un efecto igual a la suma de los efectos individuales de cada fármaco. Esta interacción se denomina:",
+        "options": [
+            "a) Sinergismo de potenciación.",
+            "b) Agonismo parcial.",
+            "c) Sinergismo de sumación.",
+            "d) Sinergismo de facilitación."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 244,
+        "question": "Qué son los receptores de fármacos:",
+        "options": [
+            "a) Componentes macromoleculares que se encuentran en distintas partes del organismo, en las membranas celulares, dentro de la célula y/o intranucleares.",
+            "b) Fármacos que se unen a los tejidos del cuerpo.",
+            "c) Compuestos de señalización endógenos que regulan la respuesta celular o sistémica.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 245,
+        "question": "La interacción entre dos fármacos caracterizada por la obtención de una respuesta mayor que la suma de los efectos individuales de ambos fármacos se denomina:",
+        "options": [
+            "a) Sinergismo de suma.",
+            "b) Sinergismo de potenciación.",
+            "c) Agonismo parcial.",
+            "d) Antagonismo farmacológico."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 246,
+        "question": "Por qué son importantes los canales iónicos para las células:",
+        "options": [
+            "a) Porque establecen los gradientes electroquímicos necesarios para mantener el potencial de membrana.",
+            "b) Porque generan y transmiten impulsos eléctricos en células excitables como el nervio y el músculo.",
+            "c) Porque desencadenan eventos bioquímicos y secretores en células no excitables.",
+            "d) Todas las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 247,
+        "question": "La vía de administración intramuscular de un fármaco:",
+        "options": [
+            "a) Adecuada para la administración de soluciones oleosas.",
+            "b) Es de elección para administrar grandes volúmenes.",
+            "c) No apta para la administración de fármacos ácidos débiles.",
+            "d) No apta para fármacos básicos débiles."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 248,
+        "question": "La vía de administración intravenosa de un fármaco:",
+        "options": [
+            "a) Adecuada para la administración de soluciones oleosas.",
+            "b) Es de elección para administrar grandes volúmenes.",
+            "c) No apta para la administración de fármacos ácidos débiles.",
+            "d) No apta para fármacos básicos débiles."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 249,
+        "question": "Las características de un fármaco que permiten pronosticar su distribución y disponibilidad en los sitios de acción son:",
+        "options": [
+            "a) Su enlace con proteínas séricas e hísticas.",
+            "b) Su solubilidad relativa en lípidos de sus variantes ionizadas y no ionizadas.",
+            "c) Todas las respuestas son correctas.",
+            "d) Su grado de ionización."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 250,
+        "question": "Los principales factores que afectan el volumen de distribución de un fármaco son:",
+        "options": [
+            "a) La velocidad de administración endovenosa.",
+            "b) El grado de ionización y su forma de presentación.",
+            "c) El grado de fijación a proteínas plasmáticas y el flujo de perfusión de tejidos.",
+            "d) La vida media del fármaco junto a los transportadores activos de membrana plasmática."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 251,
+        "question": "Virus respiratorios. Marque la opción correcta:",
+        "options": [
+            "a) El virus influenza causa epidemias estacionales y muta sus antígenos.",
+            "b) La inmunidad natural que deja la infección por el virus del sarampión no los protege durante toda la vida.",
+            "c) Los virus parainfluenza presentan un solo serotipo.",
+            "d) Los adenovirus no se pueden transmitir por vía fecal oral."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 252,
+        "question": "Hemoparásitos. Señale la respuesta correcta:",
+        "options": [
+            "a) Se puede realizar coloración de Ziehl Neelsen para visualizar Trypanosoma Cruzi.",
+            "b) Trypanosoma cruzi es un hemoflagelado que no crece en medios de cultivo.",
+            "c) Triatoma infestans elimina el parásito por el extremo posterior.",
+            "d) Test de Strout es el diagnóstico de leishmaniasis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 253,
+        "question": "Tuberculosis. Marque lo correcto:",
+        "options": [
+            "a) La baciloscopia positiva es diagnóstica de certeza.",
+            "b) Las formas extrapulmonares son muy raras en pacientes con SIDA.",
+            "c) El cultivo se realiza en medios comunes y se obtiene crecimiento en una semana.",
+            "d) El agente causante se observa por tinción de Gram."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 254,
+        "question": "Observación microscópica. Cuál de las siguientes premisas es la correcta:",
+        "options": [
+            "a) El montaje entre portaobjetos y cubreobjetos con tinta china se utiliza por ejemplo para el diagnóstico directo de Cryptococcus neoformans en LCR.",
+            "b) La observación en fresco a partir de muestras clínicas permite inferir la composición química de la pared bacteriana.",
+            "c) La observación macroscópica solo se utiliza para visualizar protozoarios en materia fecal.",
+            "d) En la coloración de Ziehl Neelsen, las micobacterias teñidas con fucsina fenicada se decoloran ante la presencia de mezclas decolorantes fuertes como ácido alcohol."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 255,
+        "question": "Un neonato de 5 días presenta signos y síntomas de sepsis. Se le solicitan 2 muestras de hemocultivo. A las 24hrs 1 caldo se observa turbio, se le realiza un gram de dicho caldo, en el cual se observan cocos gram + en cadenas. Cultivo bacteriológico a las 24hrs se obtiene desarrollo de colonias de cocos gram + en cadenas beta hemolíticos. Con estos datos cuál puede ser bacteria causante de la infección:",
+        "options": [
+            "a) Streptococcus beta hemolítico grupo A.",
+            "b) Streptococcus beta hemolítico grupo C.",
+            "c) Streptococcus beta hemolítico grupo G.",
+            "d) Streptococcus beta hemolítico grupo B."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 256,
+        "question": "Bacilos gram positivos aerobios esporulados. Marque lo correcto:",
+        "options": [
+            "a) Bacillus cereus causa intoxicaciones alimentarias por consumir arroz contaminado con las esporas.",
+            "b) Bacillus anthracis causa infecciones cutáneo mucosas porque puede introducirse por piel sana.",
+            "c) Bacillus subtilis es un patógeno humano produciendo infecciones en individuos inmunocompetentes.",
+            "d) Bacillus stearothermophilus causa brotes de infecciones intrahospitalarias."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 257,
+        "question": "Leptospira, marque la respuesta correcta:",
+        "options": [
+            "a) Son bacilos gram positivos capaces de producir infecciones de piel y partes blandas en pescadores.",
+            "b) Las vías de contagio son la piel erosionada y las mucosas.",
+            "c) El reservorio es humano.",
+            "d) Produce infecciones respiratorias intrahospitalarias."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 258,
+        "question": "Un veterinario que trabaja con cerdos en Chañar Ladeado consulta por presentar fiebre, artralgias, mialgias y adenopatías. Se sospecha brucelosis, señale la respuesta correcta:",
+        "options": [
+            "a) Le solicitaría una única determinación de IgG en suero del paciente.",
+            "b) Le solicitaría una muestra de hemocultivo y si el resultado fuese negativo a los 10 días descartaría el diagnóstico de brucelosis.",
+            "c) Le solicitaría hemograma completo con plaquetas para diagnóstico específico.",
+            "d) Le solicitaría un cultivo en medios enriquecidos de médula ósea y punción de ganglio linfático."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 259,
+        "question": "Cuál de las siguientes no es una densidad radiológica:",
+        "options": [
+            "a) Aire.",
+            "b) Músculo.",
+            "c) Derrame.",
+            "d) Ganglio."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 260,
+        "question": "Cuál de los siguientes espacios claros se visualiza en la RX de perfil:",
+        "options": [
+            "a) Retroesternal.",
+            "b) Paracardíaco derecho.",
+            "c) Paratraqueal derecho.",
+            "d) Supraesternal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 261,
+        "question": "Para disminuir la deformidad geométrica se utiliza:",
+        "options": [
+            "a) Distancia tubo placa de 1 m y posición AP.",
+            "b) Distancia tubo placa de 1 m y posición PA.",
+            "c) Distancia tubo placa de 1,80 m y posición PA.",
+            "d) Distancia tubo placa de 1,80 m y posición AP."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 262,
+        "question": "El hilio pulmonar radiológico está determinado por:",
+        "options": [
+            "a) En un 90% por la arteria pulmonar.",
+            "b) En un 90% por la arteria pulmonar superior.",
+            "c) En un 50% por cada una de las estructuras anteriores.",
+            "d) Las estructuras vasculares no participan en la formación de la imagen radiológica."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 263,
+        "question": "En una Rx de tórax F, cuál de los dos diafragmas es habitualmente el más bajo:",
+        "options": [
+            "a) El izquierdo.",
+            "b) El derecho.",
+            "c) No tienen diferencia de altura.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 264,
+        "question": "Cuál de las siguientes no es una radiación ionizante:",
+        "options": [
+            "a) Rayos X.",
+            "b) Ultrasonido.",
+            "c) Ondas electromagnéticas.",
+            "d) A+B."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 265,
+        "question": "Cuál de los siguientes métodos es el adecuado para evaluar inicialmente los ganglios cervicales:",
+        "options": [
+            "a) Radiología.",
+            "b) Ultrasonido.",
+            "c) Tomografía.",
+            "d) Resonancia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 266,
+        "question": "La unidad anatomofuncional visible por TACAR es:",
+        "options": [
+            "a) Acino.",
+            "b) Acino y bronquiolo primario.",
+            "c) Lóbulo pulmonar primario.",
+            "d) Lóbulo pulmonar secundario."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 267,
+        "question": "En la segmentación pulmonar, el lóbulo inferior derecho tiene cuáles segmentos:",
+        "options": [
+            "a) Apical, basal anteromedial, basal anterior, basal posterior.",
+            "b) Anterior, ápicoposterior.",
+            "c) Apical, basal anterior, basal posterior, basal medial y basal lateral.",
+            "d) Apicoanterior y posterior."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 268,
+        "question": "El cambio acústico posterior de sombra acústica se ve en:",
+        "options": [
+            "a) Ecografía.",
+            "b) Tomografía.",
+            "c) Resonancia.",
+            "d) Medicina nuclear."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 269,
+        "question": "La cisura mayor derecha divide:",
+        "options": [
+            "a) Lóbulo superior derecho de lóbulo medio derecho.",
+            "b) Lóbulo superior derecho de lóbulo inferior derecho.",
+            "c) Lóbulo superior izquierdo de lóbulo de la língula.",
+            "d) Lóbulo superior izquierdo de lóbulo inferior izquierdo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 270,
+        "question": "El contorno radiológico mediastinal izquierdo en una Rx F está constituido por:",
+        "options": [
+            "a) Arteria carótida interna izquierda, cayado aórtico, ventrículo derecho.",
+            "b) Arteria subclavia izquierda, cayado aórtico, tronco de la pulmonar y ventrículo izquierdo.",
+            "c) Vena cava superior, aurícula izquierda y ventrículo izquierdo.",
+            "d) Tronco arterial braquiocefálico, arteria pulmonar derecha y ventrículo derecho."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 271,
+        "question": "En relación a HC la lista de problemas marque lo correcto:",
+        "options": [
+            "a) Lista de problemas se divide en agudos y crónicos según tengan más o menos de 6 meses de evolución.",
+            "b) Luego del interrogatorio solicitamos los estudios complementarios para continuar con los planteos diagnósticos.",
+            "c) La noción de foco + para enfermedad de Chagas debe ser interpretada como enfermedad activa del paciente.",
+            "d) B + C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 272,
+        "question": "En relación a la fiebre señale la opción correcta:",
+        "options": [
+            "a) En la fiebre intermitente los valores de temperatura descienden sin llegar a valores normales en algún momento del día.",
+            "b) En la fiebre recurrente los valores de temperatura descienden en algún momento del día sin llegar a valores normales.",
+            "c) La fiebre sostenida tiene valores de temperatura sostenida sin variaciones diarias.",
+            "d) La fiebre es causada por agentes infecciosos exclusivamente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 273,
+        "question": "En relación al edema marque la opción correcta:",
+        "options": [
+            "a) Denominamos anasarca el edema localizado en miembros.",
+            "b) Denominamos ascitis el edema generalizado.",
+            "c) La acumulación de líquido en el tórax se denomina hemotórax.",
+            "d) A + B son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 274,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) Denominamos polipnea al aumento de la profundidad de la respiración.",
+            "b) Denominamos hiperpnea al aumento en FR exclusivamente.",
+            "c) Denominamos bradipnea a la disminución de la profundidad respiratoria.",
+            "d) Denominamos hiperpnea al aumento de la frecuencia respiratoria y profundidad."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 275,
+        "question": "Marque la opción correcta en relación a disnea:",
+        "options": [
+            "a) La disnea de esfuerzo grado I aparece en esfuerzos moderados.",
+            "b) La ortopnea es la disnea que aparece en decúbito lateral.",
+            "c) La disnea de esfuerzo de grado III aparece en esfuerzos moderados.",
+            "d) La platipnea es la disnea que aparece en decúbito dorsal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 276,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) La cianosis puede ser enmascarada por anemia.",
+            "b) La cianosis periférica es originada por una caída del consumo de oxígeno a nivel capilar.",
+            "c) La hipoxia se produce por el aporte insuficiente de dióxido de carbono a los tejidos.",
+            "d) A + C."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 277,
+        "question": "Marque la opción correcta en relación a disnea permanente:",
+        "options": [
+            "a) Puede ser causada por neumotórax.",
+            "b) Puede ser causada por hemotórax.",
+            "c) Puede ser causada por tromboembolismo pulmonar.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 278,
+        "question": "En una neumonía bacteriana el exudado es:",
+        "options": [
+            "a) Seroso.",
+            "b) Fibrinoso.",
+            "c) Purulento.",
+            "d) Numular."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 279,
+        "question": "Un paciente con neumotórax refiere dolor con la siguiente característica:",
+        "options": [
+            "a) Tipo puntada de costado.",
+            "b) Sordo e irradiado a cuello.",
+            "c) Opresivo.",
+            "d) Urente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 280,
+        "question": "La tos seca puede ser causada por:",
+        "options": [
+            "a) Bronquitis crónica.",
+            "b) Pleuritis.",
+            "c) Reflujo gastroesofágico.",
+            "d) B y C correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 281,
+        "question": "Es causa de cianosis central:",
+        "options": [
+            "a) Hemoglobina con escasa afinidad por el oxígeno.",
+            "b) Hipoventilación alveolar.",
+            "c) Alteración de la función pulmonar.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 282,
+        "question": "La hemoptisis es:",
+        "options": [
+            "a) Eliminación de sangre con el vómito.",
+            "b) Eliminación de sangre proveniente del aparato respiratorio.",
+            "c) La sangre es roja, brillante y espumosa.",
+            "d) B y C correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 283,
+        "question": "En una respuesta inflamatoria aguda la secuencia de acontecimientos que realizan los leucocitos en la luz vascular son:",
+        "options": [
+            "a) Rodamiento, diapédesis, migración, marginación.",
+            "b) Marginación, rodamiento, adhesión, diapédesis.",
+            "c) Adhesión, rodamiento, marginación, diapédesis.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 284,
+        "question": "Entre los mediadores químicos que primero actúan en un proceso inflamatorio está la histamina contenida en los mastocitos. Esta célula se encuentra en:",
+        "options": [
+            "a) La sangre.",
+            "b) En el tejido conectivo.",
+            "c) En el epitelio.",
+            "d) En el endotelio."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 285,
+        "question": "La formación de un trombo requiere:",
+        "options": [
+            "a) Flujo turbulento.",
+            "b) Lesión endotelial.",
+            "c) Estado de hipercoagulabilidad.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 286,
+        "question": "La necropsia de un paciente de 62 años, masculino, fumador de larga data muestra un puntillado negro multifocal y disperso de ambos pulmones, los ganglios hiliares presentan color negro. Qué depósito considera que puede explicar este aspecto de los pulmones y de los ganglios hiliares:",
+        "options": [
+            "a) Lipofuscina.",
+            "b) Hemosiderina.",
+            "c) Antracosis.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 287,
+        "question": "Qué tipo de exudado esperaría encontrar en una ampolla:",
+        "options": [
+            "a) Seroso.",
+            "b) Mucoso.",
+            "c) Purulento.",
+            "d) Hemorrágico."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 288,
+        "question": "Una mujer de 49 años presenta hiperestrogenismo, qué cambios podría encontrar en el endometrio:",
+        "options": [
+            "a) Atrofia.",
+            "b) Metaplasia.",
+            "c) Hiperplasia.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 289,
+        "question": "Llegan a un tejido vascularizado bacterias y se produce migración de leucocitos polimorfonucleares a la zona. Cuál de los siguientes mediadores producen el desplazamiento de los mismos:",
+        "options": [
+            "a) Bradicinina.",
+            "b) Quimiocinas.",
+            "c) Histamina.",
+            "d) Prostaglandinas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 290,
+        "question": "¿Cuál de las siguientes noxas puede ser considerada una injuria química?",
+        "options": [
+            "a) Electricidad.",
+            "b) Virus.",
+            "c) Rayos x.",
+            "d) Glucosa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 291,
+        "question": "Qué alteraciones microscópicas a nivel del parénquima pulmonar podrá encontrar en un paciente con disminución de la función cardíaca de larga data:",
+        "options": [
+            "a) Edema agudo de pulmón.",
+            "b) Macrófagos cargados de hemosiderina constituyendo las células de la insuficiencia cardíaca.",
+            "c) Congestión capilar, edema, engrosamiento de los tabiques alveolares con fibrosis, presencia de hemosiderina y macrófagos cargados de hemosiderina.",
+            "d) A, B y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 292,
+        "question": "Niño de 10 años al que se extirpa un testículo como consecuencia de una torsión, qué tipo de lesión puede encontrar:",
+        "options": [
+            "a) Edema.",
+            "b) Infarto anémico.",
+            "c) Infarto rojo.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema C.txt"
+    },
+    {
+        "id": 293,
+        "question": "Cuál de las siguientes cuestiones es más ajustada a un desempeño abarcado por la ética al prestar servicios en salud. Marque la opción correcta.",
+        "options": [
+            "a) Descartar la posibilidad de interconsultas en los casos de pronósticos de irreversibilidad del cuadro, para no aumentar costos en salud.",
+            "b) Limitar los costos y prestaciones en los casos de cronicidad, incurabilidad independientemente de la demanda que el afectado realice.",
+            "c) La atención del paciente sin discriminar raza, credo, situación económica, posibilidad de curación.",
+            "d) Evitar que el paciente elija el servicio prestador de salud, habiendo razón fundada para su elección."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 294,
+        "question": "Si la ventilación pulmonar total y la frecuencia respiratoria se mantienen constantes y aumenta el volumen del espacio muerto:",
+        "options": [
+            "a) La ventilación alveolar aumenta.",
+            "b) La ventilación alveolar disminuye.",
+            "c) La ventilación alveolar permanece constante.",
+            "d) La presión parcial arterial del dióxido de carbono disminuye."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 295,
+        "question": "La prevención secundaria:",
+        "options": [
+            "a) Actúa sólo cuando no ha existido la primaria o ha fracasado.",
+            "b) Se define como el diagnóstico precoz y el tratamiento oportuno.",
+            "c) En las enfermedades crónicas, donde la prevención primaria es difícil o aún impracticable, la estrategia de los servicios de salud se dirige hacia este tipo de prevención a través de autoexamen o screening de población.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 296,
+        "question": "Qué categorías refiere el concepto de triple inequidad:",
+        "options": [
+            "a) Clase, género, etnia.",
+            "b) Triple carga.",
+            "c) Singular, particular y general.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 297,
+        "question": "Los rayos X:",
+        "options": [
+            "a) Son radiaciones corpusculares.",
+            "b) Tienen origen en el núcleo atómico.",
+            "c) Tienen efectos ionizantes.",
+            "d) Ninguna es correcta."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 298,
+        "question": "Una de las vitaminas que interviene en la neutralización de las especies reactivas es:",
+        "options": [
+            "a) Vitamina D.",
+            "b) Vitamina B6.",
+            "c) Vitamina C.",
+            "d) Vitamina B5."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 299,
+        "question": "La enzima glutatión reductasa que restablece el glutatión a su estado reducido utiliza:",
+        "options": [
+            "a) NADPH.",
+            "b) FADH2.",
+            "c) Agua.",
+            "d) Oxígeno."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 300,
+        "question": "La vulnerabilidad psíquica se construye en base a:",
+        "options": [
+            "a) La historia personal.",
+            "b) La carga genética.",
+            "c) La interacción entre sujeto y el medio.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 301,
+        "question": "Cuál de los siguientes espacios claros se visualiza en la RX de perfil:",
+        "options": [
+            "a) Retroesternal.",
+            "b) Paracardíaco derecho.",
+            "c) Paratraqueal derecho.",
+            "d) Supraesternal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 302,
+        "question": "Teletórax significa:",
+        "options": [
+            "a) Distancia tubo placa de 1 m y posición AP.",
+            "b) Distancia tubo placa de 1 m y posición PA.",
+            "c) Distancia tubo placa de 1,80 m y posición PA.",
+            "d) Distancia tubo placa de 1,80 m y posición AP."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 303,
+        "question": "El hilio pulmonar radiológico está determinado por:",
+        "options": [
+            "a) En un 90% por la arteria pulmonar.",
+            "b) En un 90% por la arteria pulmonar superior.",
+            "c) En un 50% por cada una de las estructuras anteriores.",
+            "d) Las estructuras vasculares no participan en la formación de la imagen radiológica."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 304,
+        "question": "Cuál de las siguientes es una densidad radiológica:",
+        "options": [
+            "a) Aire.",
+            "b) Músculo.",
+            "c) Derrame.",
+            "d) Ganglio."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 305,
+        "question": "En una Rx de tórax F, cuál de los dos diafragmas es habitualmente el más bajo:",
+        "options": [
+            "a) El izquierdo.",
+            "b) El derecho.",
+            "c) No tienen diferencia de altura.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 306,
+        "question": "Cuál de las siguientes es una radiación ionizante:",
+        "options": [
+            "a) Rayos X.",
+            "b) Ultrasonido.",
+            "c) Ondas electromagnéticas.",
+            "d) A+B."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 307,
+        "question": "Cuál de los siguientes métodos es el adecuado para evaluar inicialmente los ganglios cervicales:",
+        "options": [
+            "a) Radiología.",
+            "b) Ultrasonido.",
+            "c) Tomografía.",
+            "d) Resonancia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 308,
+        "question": "Cuál es el método de diagnóstico por imágenes que nos permite evaluar con mayor definición el intersticio pulmonar:",
+        "options": [
+            "a) Rx analógica.",
+            "b) Rx digital.",
+            "c) TC alta resolución.",
+            "d) Resonancia magnética."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 309,
+        "question": "En la segmentación pulmonar, el lóbulo superior derecho tiene cuáles segmentos:",
+        "options": [
+            "a) Apical, posteroanterior.",
+            "b) Anterior y ápicoposterior.",
+            "c) Anterior, posterior y apical.",
+            "d) Apicoanterior y posterior."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 310,
+        "question": "La cisura mayor derecha divide:",
+        "options": [
+            "a) Lóbulo superior derecho y lóbulo medio derecho del lóbulo inferior.",
+            "b) Lóbulo superior derecho de lóbulo inferior derecho.",
+            "c) Lóbulo superior izquierdo de lóbulo de la língula.",
+            "d) Lóbulo superior izquierdo de lóbulo inferior izquierdo."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 311,
+        "question": "El contorno radiológico mediastinal izquierdo en una Rx F está constituido por:",
+        "options": [
+            "a) Arteria carótida interna izquierda, cayado aórtico, ventrículo derecho.",
+            "b) Arteria subclavia izquierda, cayado aórtico, tronco de la pulmonar y ventrículo izquierdo.",
+            "c) Vena cava superior, aurícula izquierda y ventrículo izquierdo.",
+            "d) Tronco arterial braquiocefálico, arteria pulmonar derecha y ventrículo derecho."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 312,
+        "question": "La obtención de imágenes por tomografía utiliza:",
+        "options": [
+            "a) Rayos X.",
+            "b) Ultrasonidos.",
+            "c) Ondas electromagnéticas.",
+            "d) Rayos gamma."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 313,
+        "question": "Con respecto al plomo, marque lo incorrecto:",
+        "options": [
+            "a) Las vías de ingreso principales del plomo son la oral y la dérmica.",
+            "b) El plomo interfiere con enzimas de síntesis del HEM.",
+            "c) La exposición al plomo puede ser ambiental y ocupacional.",
+            "d) La intoxicación crónica puede producir encefalopatía, un cuadro grave más frecuente en niños."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 314,
+        "question": "Con respecto a nitritos y nitratos marque lo correcto:",
+        "options": [
+            "a) Las fuentes ambientales más importantes son las antropogénicas.",
+            "b) El nitrito puede reaccionar con la hemoglobina y formar metahemoglobina incapaz de transportar oxígeno.",
+            "c) La cianosis es uno de los primeros signos de metahemoglobinemia.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 315,
+        "question": "La vía de administración inhalatoria:",
+        "options": [
+            "a) Es útil para lograr efecto sistémico.",
+            "b) Es útil para lograr efecto local.",
+            "c) Sufre efecto de primer paso hepático.",
+            "d) Es de elección en niños."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 316,
+        "question": "Fracción ionizada:",
+        "options": [
+            "a) La fracción ionizada de un fármaco difunde bien por su gran liposolubilidad.",
+            "b) La fracción ionizada de un fármaco difunde mal por su escasa liposolubilidad.",
+            "c) La fracción no ionizada de un fármaco difunde bien por su gran liposolubilidad.",
+            "d) La fracción no ionizada de un fármaco difunde mal por su gran liposolubilidad."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 317,
+        "question": "Sobre pKa. La furosemida es un ácido débil de pKa=3,9:",
+        "options": [
+            "a) En el plasma el equilibrio molecular se desplaza hacia la forma no ionizada.",
+            "b) En el estómago el equilibrio molecular se desplaza hacia la forma no ionizada.",
+            "c) Cuanto mayor es la acidez de la orina, mayor es su velocidad de excreción.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 318,
+        "question": "En una cinética de eliminación de orden 1:",
+        "options": [
+            "a) El tiempo de vida media es constante e independiente de la concentración de fármaco.",
+            "b) La curva de la gráfica concentración plasmática vs tiempo resulta en una recta de pendiente positiva.",
+            "c) La fórmula para calcular el tiempo de vida media es t1/2=c0/ke.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 319,
+        "question": "Cuando un paciente comienza un régimen de dosificación de dosis múltiples. En qué situación es conveniente administrar una dosis de carga:",
+        "options": [
+            "a) Nunca es recomendado administrar dosis de carga.",
+            "b) Por norma general, siempre se comienza con una dosis de carga.",
+            "c) Es de utilidad cuando la Cee se logra en tiempos elevados y se requiere lograr el efecto terapéutico en un corto plazo.",
+            "d) Es conveniente cuando la dosis de mantenimiento es muy pequeña."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 320,
+        "question": "¿Qué es la afinidad entre un fármaco y su receptor?",
+        "options": [
+            "a) La fuerza de la interacción irreversible entre un fármaco y su receptor.",
+            "b) La fuerza de la interacción reversible entre un fármaco y su receptor.",
+            "c) La capacidad de un fármaco para generar respuestas nuevas en el organismo.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 321,
+        "question": "Un fármaco que al unirse a un receptor provoca una respuesta opuesta al agonista se denomina y su actividad intrínseca (a) varía entre:",
+        "options": [
+            "a) Agonista parcial / 0<a<1.",
+            "b) Antagonista / a=0.",
+            "c) Agonista inverso / 0<a<1.",
+            "d) Agonista inverso / -1<a<0."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 322,
+        "question": "El antagonista se caracteriza por:",
+        "options": [
+            "a) Disminuir la magnitud del efecto provocado por el agonista.",
+            "b) Presenta afinidad por el receptor y eficacia intrínseca igual a cero.",
+            "c) Interaccionar con el receptor y desencadenar una respuesta opuesta a la del agonista.",
+            "d) A + B son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 323,
+        "question": "Marque la premisa correcta:",
+        "options": [
+            "a) El VSR mantiene una viremia importante.",
+            "b) El VSR es el principal patógeno respiratorio en niños menores de dos años.",
+            "c) Los anticuerpos maternos protegen a los menores de un año evitando la infección por el VSR.",
+            "d) Los adenovirus causan infecciones solamente del aparato respiratorio."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 324,
+        "question": "Hemoparásitos. Señale lo correcto:",
+        "options": [
+            "a) Xenodiagnóstico es el diagnóstico indirecto apropiado para Leishmaniasis.",
+            "b) Aedes aegypti es el vector biológico de leishmaniasis.",
+            "c) Leishmania se puede colorear con Giemsa.",
+            "d) El chagoma de inoculación es un hallazgo frecuente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 325,
+        "question": "Tuberculosis, marque lo correcto:",
+        "options": [
+            "a) Un PPD negativo descarta la tuberculosis.",
+            "b) En pacientes con SIDA se debe solicitar hemocultivos seriados para diagnóstico de tuberculosis.",
+            "c) El cultivo se realiza en medios comunes y se obtiene crecimiento en una semana.",
+            "d) El agente causante se observa por tinción de Giemsa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 326,
+        "question": "Un niño presenta una lesión cutáneo mucosa en la nariz y proviene de la provincia de Misiones. La observación microscópica del material obtenido de la lesión muestra formas levaduriformes, algunas brotantes. ¿En cuál de los siguientes microorganismos pensaría?",
+        "options": [
+            "a) Coccidioides immitis.",
+            "b) Histoplasma capsulatum.",
+            "c) Paracoccidioides brasiliensis.",
+            "d) Leishmania spp."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 327,
+        "question": "Un niño de 6 años consulta por hematuria, tiene como antecedente haber padecido durante el último invierno anginas a repetición. Señale la respuesta correcta:",
+        "options": [
+            "a) Puede tratarse de una infección aguda por Streptococcus hemolítico grupo A.",
+            "b) Es una infección crónica por Streptococcus beta hemolítico grupo B.",
+            "c) Puede tratarse de una infección por Streptococcus beta hemolítico grupo A debido a la toxina eritrogénica que produce como factor de virulencia.",
+            "d) Puede ser una patología postestreptocócica por Streptococcus beta hemolítico grupo A."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 328,
+        "question": "Observación microscópica. ¿Cuál de las siguientes premisas es la correcta?",
+        "options": [
+            "a) La observación en fresco por campo oscuro se utiliza para la observación de levaduras a partir de lesiones de piel.",
+            "b) La coloración de Gram se utiliza para visualizar morfología e identificar género y especie.",
+            "c) La observación en fresco a partir de muestras clínicas para el diagnóstico bacteriológico es muy útil para determinar morfología.",
+            "d) La observación microscópica en fresco con hidróxido de potasio se usa para muestras que contengan células queratinizadas para facilitar la observación de elementos fúngicos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 329,
+        "question": "¿En cuál de las siguientes secuencias que le presentamos todas las muestras se toman con hisopo y se colocan en un medio de transporte hasta su procesamiento?",
+        "options": [
+            "a) Úlcera plantar – exudado de faringe – esputo.",
+            "b) 2do chorro miccional – secreción ótica – materia fecal.",
+            "c) Flujo vaginal – exudado faríngeo – secreción uretral.",
+            "d) Escamas de cuero cabelludo – sangre – LCR."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 330,
+        "question": "Bacilos gram + aerobios no esporulados: marque lo correcto:",
+        "options": [
+            "a) Listeria monocytogenes causa meningitis en pacientes inmunodeprimidos.",
+            "b) Para el diagnóstico de difteria se realizan hemocultivos seriados.",
+            "c) Lactobacillus son patógenos exclusivos del ser humano.",
+            "d) Corynebacterium spp son causa de infecciones graves en individuos hospitalizados."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 331,
+        "question": "En relación a fisiopatogenia de la disnea podemos decir que se produce cuando:",
+        "options": [
+            "a) La demanda de ventilación es desproporcionada en relación a la capacidad de respuesta del paciente a dicha demanda.",
+            "b) Una mayor demanda de ventilación puede ser provocada por cambios en los gases sanguíneos y en el pH.",
+            "c) Los receptores J presentes en el intersticio pulmonar son sensibles a la congestión.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 332,
+        "question": "Los procesos inflamatorios de vías aéreas superiores producen:",
+        "options": [
+            "a) Tos productiva.",
+            "b) Tos seca.",
+            "c) Tos bitonal.",
+            "d) Tos ferina."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 333,
+        "question": "Cuáles de estos datos obtenidos en el interrogatorio ubicaría en hábitos:",
+        "options": [
+            "a) Edad, sexo, religión.",
+            "b) HTA y diabetes.",
+            "c) Consumo de medicamentos y alergias.",
+            "d) Sedentarismo, diuresis, alergias."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 334,
+        "question": "En relación a HC la lista de problemas marque lo correcto:",
+        "options": [
+            "a) Lista de problemas se divide en agudos y crónicos según tengan más o menos de 2 meses de evolución.",
+            "b) Previo a la solicitud de los estudios complementarios realizamos los planteos diagnósticos.",
+            "c) La noción de foco + para enfermedad de Chagas debe ser interpretada como enfermedad activa del paciente.",
+            "d) A + C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 335,
+        "question": "En relación a la fiebre señale la opción correcta:",
+        "options": [
+            "a) En la fiebre intermitente los valores de temperatura descienden sin llegar a valores normales en algún momento del día.",
+            "b) En la fiebre recurrente los valores de temperatura descienden en algún momento del día sin llegar a valores normales.",
+            "c) La fiebre sostenida tiene valores de temperatura sostenida sin variaciones diarias.",
+            "d) A + C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 336,
+        "question": "En relación al edema marque la opción correcta:",
+        "options": [
+            "a) Denominamos anasarca el edema generalizado.",
+            "b) Denominamos ascitis el edema localizado en ambos miembros.",
+            "c) La acumulación de líquido en el tórax se denomina hemotórax.",
+            "d) B + C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 337,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) Denominamos taquipnea al aumento de FR.",
+            "b) Denominamos hiperpnea al aumento en FR exclusivamente.",
+            "c) Denominamos bradipnea a la disminución de la profundidad de la respiración.",
+            "d) Denominamos hiperpnea al aumento de la profundidad exclusivamente."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 338,
+        "question": "Marque la opción correcta en relación a disnea:",
+        "options": [
+            "a) La disnea de esfuerzo grado I aparece en esfuerzos moderados.",
+            "b) La ortopnea es la disnea que aparece en decúbito lateral.",
+            "c) La disnea de esfuerzo de grado III aparece en esfuerzos moderados.",
+            "d) La platipnea es la disnea que aparece en decúbito dorsal."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 339,
+        "question": "Marque la opción correcta:",
+        "options": [
+            "a) La hipoxemia es la caída de la presión de oxígeno en sangre venosa por debajo de los 80 mmHg.",
+            "b) La cianosis periférica es originada por una caída del consumo del oxígeno a nivel capilar.",
+            "c) La hipoxia se produce por el aporte insuficiente de dióxido de carbono a los tejidos.",
+            "d) B + C."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 340,
+        "question": "Tos seca puede presentarse en:",
+        "options": [
+            "a) Pleuritis.",
+            "b) Laringitis.",
+            "c) Patologías del mediastino.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 341,
+        "question": "Es causa de cianosis periférica:",
+        "options": [
+            "a) Hemoglobina con escasa afinidad por el oxígeno.",
+            "b) Hipoventilación alveolar.",
+            "c) Alteración de la función pulmonar.",
+            "d) Disminución del gasto cardíaco."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 342,
+        "question": "El esputo herrumbroso:",
+        "options": [
+            "a) Es un esputo purulento teñido de sangre.",
+            "b) Es un esputo mucoso teñido de sangre.",
+            "c) Es característico del edema agudo del pulmón.",
+            "d) B y C son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 343,
+        "question": "En el proceso inflamatorio cuáles son los mediadores químicos responsables de la fiebre:",
+        "options": [
+            "a) Prostaglandinas y TNF.",
+            "b) Histamina y serotonina.",
+            "c) Bradicinina e IL8.",
+            "d) IL1, IL6 y TNF."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 344,
+        "question": "Cuando hablamos de esteatosis hacemos referencia a acúmulo de:",
+        "options": [
+            "a) Glucógeno.",
+            "b) Lipofuscina.",
+            "c) Hialina.",
+            "d) Ácidos grasos."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 345,
+        "question": "En la ecografía de un paciente adulto con controles anteriores normales se observa que actualmente uno de los riñones mide 6cm por 2cm. Esta imagen corresponde a:",
+        "options": [
+            "a) Atrofia renal.",
+            "b) Hipoplasia renal.",
+            "c) Hipertrofia compensadora.",
+            "d) Todas son correctas."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 346,
+        "question": "La necrosis se define como:",
+        "options": [
+            "a) Apoptosis.",
+            "b) Cambios morfológicos que siguen a la muerte celular en un organismo vivo.",
+            "c) Muerte celular programada.",
+            "d) Muerte celular."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 347,
+        "question": "En cuál de los siguientes procesos ocurre el estallido oxidativo en la respuesta inflamatoria aguda:",
+        "options": [
+            "a) Unión de los polimorfonucleares a las células endoteliales.",
+            "b) Opsonización bacteriana.",
+            "c) Fagocitosis.",
+            "d) Quimiotaxis."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 348,
+        "question": "Un joven de 16 años sufre un traumatismo abdominal con hemoperitoneo por desprendimiento de un pequeño fragmento hepático. A los 2 meses se realiza una TAC de abdomen que muestra el hígado que ha recuperado su tamaño. Cuál de los siguientes hallazgos explica esto:",
+        "options": [
+            "a) Esteatosis.",
+            "b) Hipertrofia.",
+            "c) Degeneración hidrópica.",
+            "d) Hiperplasia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 349,
+        "question": "Un paciente adulto mayor presenta un infarto de ventrículo izquierdo. Cuál pudo haber sido la causa más probable:",
+        "options": [
+            "a) Un émbolo originado en el sistema venoso profundo de miembros inferiores.",
+            "b) Un trombo arterial oclusivo en la luz de una arteria coronaria.",
+            "c) Un trombo mural en aorta abdominal.",
+            "d) Ninguna de las anteriores."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 350,
+        "question": "Lesión excavada localizada en la superficie de un órgano, secundaria al desprendimiento de tejido inflamatorio necrótico:",
+        "options": [
+            "a) Absceso.",
+            "b) Úlcera.",
+            "c) Infarto.",
+            "d) Cicatriz."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 351,
+        "question": "Mujer de 53 años que presenta ardor por reflujo gastroesofágico. Se realiza endoscopía y biopsia esofágica. Cuál de los siguientes cambios microscópicos esperaría encontrar:",
+        "options": [
+            "a) Atrofia de la lámina propia.",
+            "b) Displasia.",
+            "c) Metaplasia cilíndrica.",
+            "d) Hipertrofia."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    },
+    {
+        "id": 352,
+        "question": "Forma de necrosis que ocurre por liberación de enzimas comúnmente en el páncreas o bien por un traumatismo en tejido mamario:",
+        "options": [
+            "a) Necrosis licuefactiva.",
+            "b) Necrosis grasa.",
+            "c) Necrosis coagulativa.",
+            "d) Necrosis gaseosa."
+        ],
+        "source_file": "Primer Parcial Injuria - Tema D.txt"
+    }
+]
